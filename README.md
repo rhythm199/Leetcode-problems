@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rhythm199/Leetcode-problems/tree/master/0022-generate-parentheses) |
+## Array
+|  |
+| ------- |
+| [0477-total-hamming-distance](https://github.com/rhythm199/Leetcode-problems/tree/master/0477-total-hamming-distance) |
+## Math
+|  |
+| ------- |
+| [0477-total-hamming-distance](https://github.com/rhythm199/Leetcode-problems/tree/master/0477-total-hamming-distance) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0477-total-hamming-distance](https://github.com/rhythm199/Leetcode-problems/tree/master/0477-total-hamming-distance) |
 <!---LeetCode Topics End-->
