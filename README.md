@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0477-total-hamming-distance](https://github.com/rhythm199/Leetcode-problems/tree/master/0477-total-hamming-distance) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/rhythm199/Leetcode-problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Math
 |  |
 | ------- |
