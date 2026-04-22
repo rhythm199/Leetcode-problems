@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rhythm199/Leetcode-problems/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/rhythm199/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/0039-combination-sum) |
 | [0401-binary-watch](https://github.com/rhythm199/Leetcode-problems/tree/master/0401-binary-watch) |
 ## Array
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/rhythm199/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/rhythm199/Leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/rhythm199/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/0039-combination-sum) |
 | [0477-total-hamming-distance](https://github.com/rhythm199/Leetcode-problems/tree/master/0477-total-hamming-distance) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/rhythm199/Leetcode-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rhythm199/Leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/rhythm199/Leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/rhythm199/Leetcode-problems/tree/master/0037-sudoku-solver) |
 ## Sliding Window
 |  |
 | ------- |
@@ -115,4 +118,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/rhythm199/Leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/rhythm199/Leetcode-problems/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
