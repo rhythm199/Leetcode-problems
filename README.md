@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rhythm199/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rhythm199/Leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/rhythm199/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/rhythm199/Leetcode-problems/tree/master/0038-count-and-say) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rhythm199/Leetcode-problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Dynamic Programming
 |  |
