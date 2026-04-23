@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rhythm199/Leetcode-problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2454-next-greater-element-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/2454-next-greater-element-iv) |
 | [2463-minimum-total-distance-traveled](https://github.com/rhythm199/Leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
+| [2615-sum-of-distances](https://github.com/rhythm199/Leetcode-problems/tree/master/2615-sum-of-distances) |
 ## Math
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rhythm199/Leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/rhythm199/Leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rhythm199/Leetcode-problems/tree/master/0037-sudoku-solver) |
+| [2615-sum-of-distances](https://github.com/rhythm199/Leetcode-problems/tree/master/2615-sum-of-distances) |
 ## Sliding Window
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/rhythm199/Leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rhythm199/Leetcode-problems/tree/master/0037-sudoku-solver) |
+## Prefix Sum
+|  |
+| ------- |
+| [2615-sum-of-distances](https://github.com/rhythm199/Leetcode-problems/tree/master/2615-sum-of-distances) |
 <!---LeetCode Topics End-->
