@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/rhythm199/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rhythm199/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/rhythm199/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [2463-minimum-total-distance-traveled](https://github.com/rhythm199/Leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
 ## Backtracking
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/rhythm199/Leetcode-problems/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/rhythm199/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0477-total-hamming-distance](https://github.com/rhythm199/Leetcode-problems/tree/master/0477-total-hamming-distance) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/rhythm199/Leetcode-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/rhythm199/Leetcode-problems/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rhythm199/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/rhythm199/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [2454-next-greater-element-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/2454-next-greater-element-iv) |
 ## Heap (Priority Queue)
 |  |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rhythm199/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [2454-next-greater-element-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/2454-next-greater-element-iv) |
 ## Depth-First Search
 |  |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/rhythm199/Leetcode-problems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/rhythm199/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 ## Matrix
 |  |
 | ------- |
