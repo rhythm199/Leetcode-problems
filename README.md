@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/rhythm199/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/rhythm199/Leetcode-problems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/rhythm199/Leetcode-problems/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/rhythm199/Leetcode-problems/tree/master/0044-wildcard-matching) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rhythm199/Leetcode-problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/rhythm199/Leetcode-problems/tree/master/2833-furthest-point-from-origin) |
 ## Dynamic Programming
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rhythm199/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rhythm199/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rhythm199/Leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/rhythm199/Leetcode-problems/tree/master/0044-wildcard-matching) |
 | [2463-minimum-total-distance-traveled](https://github.com/rhythm199/Leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
 ## Backtracking
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rhythm199/Leetcode-problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/rhythm199/Leetcode-problems/tree/master/0044-wildcard-matching) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/rhythm199/Leetcode-problems/tree/master/2833-furthest-point-from-origin) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/rhythm199/Leetcode-problems/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
