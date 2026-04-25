@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/rhythm199/Leetcode-problems/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/rhythm199/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rhythm199/Leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/rhythm199/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
