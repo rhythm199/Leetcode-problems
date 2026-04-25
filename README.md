@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/rhythm199/Leetcode-problems/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/rhythm199/Leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/rhythm199/Leetcode-problems/tree/master/0049-group-anagrams) |
+| [0696-count-binary-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/0696-count-binary-substrings) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/rhythm199/Leetcode-problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rhythm199/Leetcode-problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/rhythm199/Leetcode-problems/tree/master/2833-furthest-point-from-origin) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/rhythm199/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rhythm199/Leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0696-count-binary-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/0696-count-binary-substrings) |
 ## Matrix
 |  |
 | ------- |
