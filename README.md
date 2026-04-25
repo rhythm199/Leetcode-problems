@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/rhythm199/Leetcode-problems/tree/master/0043-multiply-strings) |
 | [0477-total-hamming-distance](https://github.com/rhythm199/Leetcode-problems/tree/master/0477-total-hamming-distance) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3536-maximum-product-of-two-digits](https://github.com/rhythm199/Leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Bit Manipulation
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/rhythm199/Leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
 | [3143-maximum-points-inside-the-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3143-maximum-points-inside-the-square) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3536-maximum-product-of-two-digits](https://github.com/rhythm199/Leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
