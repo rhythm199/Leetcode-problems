@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/rhythm199/Leetcode-problems/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/rhythm199/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/rhythm199/Leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rhythm199/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/0039-combination-sum) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rhythm199/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [2454-next-greater-element-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/2454-next-greater-element-iv) |
 | [3143-maximum-points-inside-the-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3143-maximum-points-inside-the-square) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
