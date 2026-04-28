@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/rhythm199/Leetcode-problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rhythm199/Leetcode-problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/rhythm199/Leetcode-problems/tree/master/2833-furthest-point-from-origin) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3143-maximum-points-inside-the-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3143-maximum-points-inside-the-square) |
 ## Dynamic Programming
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/rhythm199/Leetcode-problems/tree/master/0477-total-hamming-distance) |
 | [0504-base-7](https://github.com/rhythm199/Leetcode-problems/tree/master/0504-base-7) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3536-maximum-product-of-two-digits](https://github.com/rhythm199/Leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/rhythm199/Leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0045-jump-game-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Geometry
 |  |
