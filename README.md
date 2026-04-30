@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/rhythm199/Leetcode-problems/tree/master/1920-build-array-from-permutation) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/rhythm199/Leetcode-problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2057-smallest-index-with-equal-value](https://github.com/rhythm199/Leetcode-problems/tree/master/2057-smallest-index-with-equal-value) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rhythm199/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2312-selling-pieces-of-wood](https://github.com/rhythm199/Leetcode-problems/tree/master/2312-selling-pieces-of-wood) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rhythm199/Leetcode-problems/tree/master/2452-words-within-two-edits-of-dictionary) |
