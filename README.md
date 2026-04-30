@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/rhythm199/Leetcode-problems/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/rhythm199/Leetcode-problems/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/rhythm199/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/rhythm199/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0477-total-hamming-distance](https://github.com/rhythm199/Leetcode-problems/tree/master/0477-total-hamming-distance) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/rhythm199/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/rhythm199/Leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/rhythm199/Leetcode-problems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/rhythm199/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [2615-sum-of-distances](https://github.com/rhythm199/Leetcode-problems/tree/master/2615-sum-of-distances) |
 | [3143-maximum-points-inside-the-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3143-maximum-points-inside-the-square) |
 | [3488-closest-equal-element-queries](https://github.com/rhythm199/Leetcode-problems/tree/master/3488-closest-equal-element-queries) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/rhythm199/Leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rhythm199/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/rhythm199/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
