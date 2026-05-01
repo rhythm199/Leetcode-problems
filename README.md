@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rhythm199/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rhythm199/Leetcode-problems/tree/master/0055-jump-game) |
+| [0396-rotate-function](https://github.com/rhythm199/Leetcode-problems/tree/master/0396-rotate-function) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rhythm199/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2312-selling-pieces-of-wood](https://github.com/rhythm199/Leetcode-problems/tree/master/2312-selling-pieces-of-wood) |
 | [2463-minimum-total-distance-traveled](https://github.com/rhythm199/Leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/rhythm199/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/rhythm199/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0396-rotate-function](https://github.com/rhythm199/Leetcode-problems/tree/master/0396-rotate-function) |
 | [0477-total-hamming-distance](https://github.com/rhythm199/Leetcode-problems/tree/master/0477-total-hamming-distance) |
 | [0769-max-chunks-to-make-sorted](https://github.com/rhythm199/Leetcode-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rhythm199/Leetcode-problems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/rhythm199/Leetcode-problems/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/rhythm199/Leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
+| [0396-rotate-function](https://github.com/rhythm199/Leetcode-problems/tree/master/0396-rotate-function) |
 | [0477-total-hamming-distance](https://github.com/rhythm199/Leetcode-problems/tree/master/0477-total-hamming-distance) |
 | [0504-base-7](https://github.com/rhythm199/Leetcode-problems/tree/master/0504-base-7) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
