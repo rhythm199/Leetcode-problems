@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/rhythm199/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rhythm199/Leetcode-problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/rhythm199/Leetcode-problems/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rhythm199/Leetcode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Divide and Conquer
 |  |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rhythm199/Leetcode-problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/rhythm199/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rhythm199/Leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/rhythm199/Leetcode-problems/tree/master/0061-rotate-list) |
 | [0287-find-the-duplicate-number](https://github.com/rhythm199/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0696-count-binary-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/0696-count-binary-substrings) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
