@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rhythm199/Leetcode-problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rhythm199/Leetcode-problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rhythm199/Leetcode-problems/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rhythm199/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rhythm199/Leetcode-problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rhythm199/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/rhythm199/Leetcode-problems/tree/master/0035-search-insert-position) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rhythm199/Leetcode-problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rhythm199/Leetcode-problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rhythm199/Leetcode-problems/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rhythm199/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rhythm199/Leetcode-problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rhythm199/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/rhythm199/Leetcode-problems/tree/master/0031-next-permutation) |
