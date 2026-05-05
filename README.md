@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/rhythm199/Leetcode-problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/rhythm199/Leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0396-rotate-function](https://github.com/rhythm199/Leetcode-problems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/rhythm199/Leetcode-problems/tree/master/0788-rotated-digits) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rhythm199/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rhythm199/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rhythm199/Leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0189-rotate-array](https://github.com/rhythm199/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/rhythm199/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/rhythm199/Leetcode-problems/tree/master/0396-rotate-function) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rhythm199/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/rhythm199/Leetcode-problems/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rhythm199/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rhythm199/Leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rhythm199/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0769-max-chunks-to-make-sorted](https://github.com/rhythm199/Leetcode-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rhythm199/Leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rhythm199/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rhythm199/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rhythm199/Leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0769-max-chunks-to-make-sorted](https://github.com/rhythm199/Leetcode-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [2454-next-greater-element-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/2454-next-greater-element-iv) |
 ## Depth-First Search
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/rhythm199/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/rhythm199/Leetcode-problems/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/rhythm199/Leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rhythm199/Leetcode-problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
