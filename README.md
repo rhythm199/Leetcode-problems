@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rhythm199/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/rhythm199/Leetcode-problems/tree/master/0085-maximal-rectangle) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/rhythm199/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0218-the-skyline-problem](https://github.com/rhythm199/Leetcode-problems/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/rhythm199/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/rhythm199/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/rhythm199/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/rhythm199/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [2454-next-greater-element-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/2454-next-greater-element-iv) |
 | [3143-maximum-points-inside-the-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3143-maximum-points-inside-the-square) |
