@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/rhythm199/Leetcode-problems/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/rhythm199/Leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/rhythm199/Leetcode-problems/tree/master/0079-word-search) |
+| [0171-excel-sheet-column-number](https://github.com/rhythm199/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rhythm199/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/rhythm199/Leetcode-problems/tree/master/0504-base-7) |
 | [0696-count-binary-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/0696-count-binary-substrings) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/rhythm199/Leetcode-problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/rhythm199/Leetcode-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rhythm199/Leetcode-problems/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/rhythm199/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/rhythm199/Leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/rhythm199/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/rhythm199/Leetcode-problems/tree/master/0396-rotate-function) |
