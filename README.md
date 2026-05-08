@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/rhythm199/Leetcode-problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/rhythm199/Leetcode-problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rhythm199/Leetcode-problems/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/rhythm199/Leetcode-problems/tree/master/0089-gray-code) |
 | [0401-binary-watch](https://github.com/rhythm199/Leetcode-problems/tree/master/0401-binary-watch) |
 ## Array
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/rhythm199/Leetcode-problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/rhythm199/Leetcode-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rhythm199/Leetcode-problems/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/rhythm199/Leetcode-problems/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/rhythm199/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/rhythm199/Leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/rhythm199/Leetcode-problems/tree/master/0189-rotate-array) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/rhythm199/Leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/rhythm199/Leetcode-problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/rhythm199/Leetcode-problems/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/rhythm199/Leetcode-problems/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/rhythm199/Leetcode-problems/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/rhythm199/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/rhythm199/Leetcode-problems/tree/master/0401-binary-watch) |
