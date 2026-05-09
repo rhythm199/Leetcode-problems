@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/rhythm199/Leetcode-problems/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rhythm199/Leetcode-problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1914-cyclically-rotating-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/rhythm199/Leetcode-problems/tree/master/1920-build-array-from-permutation) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/rhythm199/Leetcode-problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1861-rotating-the-box](https://github.com/rhythm199/Leetcode-problems/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rhythm199/Leetcode-problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1914-cyclically-rotating-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rhythm199/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/rhythm199/Leetcode-problems/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rhythm199/Leetcode-problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/rhythm199/Leetcode-problems/tree/master/0068-text-justification) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rhythm199/Leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1914-cyclically-rotating-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/rhythm199/Leetcode-problems/tree/master/1920-build-array-from-permutation) |
 ## Counting
 |  |
