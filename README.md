@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/rhythm199/Leetcode-problems/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1202-smallest-string-with-swaps](https://github.com/rhythm199/Leetcode-problems/tree/master/1202-smallest-string-with-swaps) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/rhythm199/Leetcode-problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1345-jump-game-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/rhythm199/Leetcode-problems/tree/master/1654-minimum-jumps-to-reach-home) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0752-open-the-lock](https://github.com/rhythm199/Leetcode-problems/tree/master/0752-open-the-lock) |
 | [1202-smallest-string-with-swaps](https://github.com/rhythm199/Leetcode-problems/tree/master/1202-smallest-string-with-swaps) |
+| [1345-jump-game-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/rhythm199/Leetcode-problems/tree/master/1654-minimum-jumps-to-reach-home) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/rhythm199/Leetcode-problems/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2615-sum-of-distances](https://github.com/rhythm199/Leetcode-problems/tree/master/2615-sum-of-distances) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/rhythm199/Leetcode-problems/tree/master/0752-open-the-lock) |
 | [1202-smallest-string-with-swaps](https://github.com/rhythm199/Leetcode-problems/tree/master/1202-smallest-string-with-swaps) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/rhythm199/Leetcode-problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1345-jump-game-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/rhythm199/Leetcode-problems/tree/master/1654-minimum-jumps-to-reach-home) |
