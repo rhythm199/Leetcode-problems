@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/rhythm199/Leetcode-problems/tree/master/0752-open-the-lock) |
 | [0796-rotate-string](https://github.com/rhythm199/Leetcode-problems/tree/master/0796-rotate-string) |
 | [1202-smallest-string-with-swaps](https://github.com/rhythm199/Leetcode-problems/tree/master/1202-smallest-string-with-swaps) |
+| [1871-jump-game-vii](https://github.com/rhythm199/Leetcode-problems/tree/master/1871-jump-game-vii) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/rhythm199/Leetcode-problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rhythm199/Leetcode-problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/rhythm199/Leetcode-problems/tree/master/2833-furthest-point-from-origin) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0396-rotate-function](https://github.com/rhythm199/Leetcode-problems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/rhythm199/Leetcode-problems/tree/master/0788-rotated-digits) |
+| [1871-jump-game-vii](https://github.com/rhythm199/Leetcode-problems/tree/master/1871-jump-game-vii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rhythm199/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2312-selling-pieces-of-wood](https://github.com/rhythm199/Leetcode-problems/tree/master/2312-selling-pieces-of-wood) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rhythm199/Leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/rhythm199/Leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/rhythm199/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [1871-jump-game-vii](https://github.com/rhythm199/Leetcode-problems/tree/master/1871-jump-game-vii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/rhythm199/Leetcode-problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [1871-jump-game-vii](https://github.com/rhythm199/Leetcode-problems/tree/master/1871-jump-game-vii) |
 | [2270-number-of-ways-to-split-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2270-number-of-ways-to-split-array) |
 | [2615-sum-of-distances](https://github.com/rhythm199/Leetcode-problems/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/rhythm199/Leetcode-problems/tree/master/3225-maximum-score-from-grid-operations) |
