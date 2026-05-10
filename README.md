@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/rhythm199/Leetcode-problems/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/rhythm199/Leetcode-problems/tree/master/0403-frog-jump) |
 | [0788-rotated-digits](https://github.com/rhythm199/Leetcode-problems/tree/master/0788-rotated-digits) |
+| [1696-jump-game-vi](https://github.com/rhythm199/Leetcode-problems/tree/master/1696-jump-game-vi) |
 | [1871-jump-game-vii](https://github.com/rhythm199/Leetcode-problems/tree/master/1871-jump-game-vii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rhythm199/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/rhythm199/Leetcode-problems/tree/master/1654-minimum-jumps-to-reach-home) |
+| [1696-jump-game-vi](https://github.com/rhythm199/Leetcode-problems/tree/master/1696-jump-game-vi) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rhythm199/Leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/rhythm199/Leetcode-problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/rhythm199/Leetcode-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/rhythm199/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/rhythm199/Leetcode-problems/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/rhythm199/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [1696-jump-game-vi](https://github.com/rhythm199/Leetcode-problems/tree/master/1696-jump-game-vi) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/rhythm199/Leetcode-problems/tree/master/1801-number-of-orders-in-the-backlog) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/rhythm199/Leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2454-next-greater-element-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/2454-next-greater-element-iv) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rhythm199/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [1696-jump-game-vi](https://github.com/rhythm199/Leetcode-problems/tree/master/1696-jump-game-vi) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rhythm199/Leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Memoization
 |  |
@@ -554,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rhythm199/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [1696-jump-game-vi](https://github.com/rhythm199/Leetcode-problems/tree/master/1696-jump-game-vi) |
 ## Binary Indexed Tree
 |  |
 | ------- |
