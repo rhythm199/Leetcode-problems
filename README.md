@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/rhythm199/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0218-the-skyline-problem](https://github.com/rhythm199/Leetcode-problems/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/rhythm199/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/rhythm199/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/rhythm199/Leetcode-problems/tree/master/0396-rotate-function) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/rhythm199/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0218-the-skyline-problem](https://github.com/rhythm199/Leetcode-problems/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/rhythm199/Leetcode-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [1202-smallest-string-with-swaps](https://github.com/rhythm199/Leetcode-problems/tree/master/1202-smallest-string-with-swaps) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rhythm199/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rhythm199/Leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/rhythm199/Leetcode-problems/tree/master/0076-minimum-window-substring) |
+| [0220-contains-duplicate-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/rhythm199/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [1871-jump-game-vii](https://github.com/rhythm199/Leetcode-problems/tree/master/1871-jump-game-vii) |
 ## Two Pointers
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/rhythm199/Leetcode-problems/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/0220-contains-duplicate-iii) |
 ## Number Theory
 |  |
 | ------- |
@@ -594,4 +598,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/rhythm199/Leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
