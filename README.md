@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/rhythm199/Leetcode-problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3366-minimum-array-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/3366-minimum-array-sum) |
+| [3404-count-special-subsequences](https://github.com/rhythm199/Leetcode-problems/tree/master/3404-count-special-subsequences) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3488-closest-equal-element-queries](https://github.com/rhythm199/Leetcode-problems/tree/master/3488-closest-equal-element-queries) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/rhythm199/Leetcode-problems/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3404-count-special-subsequences](https://github.com/rhythm199/Leetcode-problems/tree/master/3404-count-special-subsequences) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3536-maximum-product-of-two-digits](https://github.com/rhythm199/Leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/rhythm199/Leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/rhythm199/Leetcode-problems/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2615-sum-of-distances](https://github.com/rhythm199/Leetcode-problems/tree/master/2615-sum-of-distances) |
 | [3143-maximum-points-inside-the-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3143-maximum-points-inside-the-square) |
+| [3404-count-special-subsequences](https://github.com/rhythm199/Leetcode-problems/tree/master/3404-count-special-subsequences) |
 | [3488-closest-equal-element-queries](https://github.com/rhythm199/Leetcode-problems/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/rhythm199/Leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -651,4 +654,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/rhythm199/Leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/0099-recover-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3404-count-special-subsequences](https://github.com/rhythm199/Leetcode-problems/tree/master/3404-count-special-subsequences) |
 <!---LeetCode Topics End-->
