@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/rhythm199/Leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/rhythm199/Leetcode-problems/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rhythm199/Leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1696-jump-game-vi](https://github.com/rhythm199/Leetcode-problems/tree/master/1696-jump-game-vi) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/rhythm199/Leetcode-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [1202-smallest-string-with-swaps](https://github.com/rhythm199/Leetcode-problems/tree/master/1202-smallest-string-with-swaps) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/rhythm199/Leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rhythm199/Leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2454-next-greater-element-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/2454-next-greater-element-iv) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/rhythm199/Leetcode-problems/tree/master/0752-open-the-lock) |
 | [1202-smallest-string-with-swaps](https://github.com/rhythm199/Leetcode-problems/tree/master/1202-smallest-string-with-swaps) |
 | [1345-jump-game-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/1345-jump-game-iv) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/rhythm199/Leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/rhythm199/Leetcode-problems/tree/master/1654-minimum-jumps-to-reach-home) |
 | [2206-divide-array-into-equal-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/rhythm199/Leetcode-problems/tree/master/2368-reachable-nodes-with-restrictions) |
