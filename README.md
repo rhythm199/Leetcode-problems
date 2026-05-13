@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3148-maximum-difference-score-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/rhythm199/Leetcode-problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3366-minimum-array-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/3366-minimum-array-sum) |
+| [3489-zero-array-transformation-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/3489-zero-array-transformation-iv) |
 | [3660-jump-game-ix](https://github.com/rhythm199/Leetcode-problems/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Backtracking
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3488-closest-equal-element-queries](https://github.com/rhythm199/Leetcode-problems/tree/master/3488-closest-equal-element-queries) |
+| [3489-zero-array-transformation-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/3489-zero-array-transformation-iv) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/rhythm199/Leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/rhythm199/Leetcode-problems/tree/master/3660-jump-game-ix) |
