@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/rhythm199/Leetcode-problems/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0788-rotated-digits](https://github.com/rhythm199/Leetcode-problems/tree/master/0788-rotated-digits) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1696-jump-game-vi](https://github.com/rhythm199/Leetcode-problems/tree/master/1696-jump-game-vi) |
 | [1871-jump-game-vii](https://github.com/rhythm199/Leetcode-problems/tree/master/1871-jump-game-vii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rhythm199/Leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/rhythm199/Leetcode-problems/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rhythm199/Leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/rhythm199/Leetcode-problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1861-rotating-the-box](https://github.com/rhythm199/Leetcode-problems/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rhythm199/Leetcode-problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1914-cyclically-rotating-a-grid) |
