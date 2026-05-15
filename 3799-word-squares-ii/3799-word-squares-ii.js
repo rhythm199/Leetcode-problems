@@ -1,0 +1,1 @@
+const wordSquares=r=>{const t=[...r].sort(),o=[],e=t.length;for(let r=0;r<e;r++)for(let f=0;f<e;f++)if(r!==f&&t[r][0]===t[f][0])for(let l=0;l<e;l++)if(l!==r&&l!==f&&t[r][3]===t[l][0])for(let s=0;s<e;s++)s!==r&&s!==f&&s!==l&&t[s][0]===t[f][3]&&t[s][3]===t[l][3]&&o.push([t[r],t[f],t[l],t[s]]);return o};
