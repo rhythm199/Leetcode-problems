@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/rhythm199/Leetcode-problems/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/rhythm199/Leetcode-problems/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/rhythm199/Leetcode-problems/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/rhythm199/Leetcode-problems/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/rhythm199/Leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rhythm199/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rhythm199/Leetcode-problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/rhythm199/Leetcode-problems/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/rhythm199/Leetcode-problems/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/rhythm199/Leetcode-problems/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/rhythm199/Leetcode-problems/tree/master/0396-rotate-function) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0137-single-number-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/rhythm199/Leetcode-problems/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/rhythm199/Leetcode-problems/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rhythm199/Leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rhythm199/Leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/rhythm199/Leetcode-problems/tree/master/0139-word-break) |
 | [1938-maximum-genetic-difference-query](https://github.com/rhythm199/Leetcode-problems/tree/master/1938-maximum-genetic-difference-query) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rhythm199/Leetcode-problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Linked List
@@ -491,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rhythm199/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rhythm199/Leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/rhythm199/Leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/rhythm199/Leetcode-problems/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/rhythm199/Leetcode-problems/tree/master/0149-max-points-on-a-line) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rhythm199/Leetcode-problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -707,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/rhythm199/Leetcode-problems/tree/master/0139-word-break) |
 | [2312-selling-pieces-of-wood](https://github.com/rhythm199/Leetcode-problems/tree/master/2312-selling-pieces-of-wood) |
 ## Graph Theory
 |  |
