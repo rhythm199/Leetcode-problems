@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/rhythm199/Leetcode-problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1345-jump-game-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rhythm199/Leetcode-problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rhythm199/Leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/rhythm199/Leetcode-problems/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rhythm199/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/rhythm199/Leetcode-problems/tree/master/0788-rotated-digits) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rhythm199/Leetcode-problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/rhythm199/Leetcode-problems/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/rhythm199/Leetcode-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rhythm199/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/rhythm199/Leetcode-problems/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/rhythm199/Leetcode-problems/tree/master/0477-total-hamming-distance) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rhythm199/Leetcode-problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1720-decode-xored-array](https://github.com/rhythm199/Leetcode-problems/tree/master/1720-decode-xored-array) |
 | [1938-maximum-genetic-difference-query](https://github.com/rhythm199/Leetcode-problems/tree/master/1938-maximum-genetic-difference-query) |
 | [2206-divide-array-into-equal-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-find-and-replace-in-string](https://github.com/rhythm199/Leetcode-problems/tree/master/0833-find-and-replace-in-string) |
 | [1202-smallest-string-with-swaps](https://github.com/rhythm199/Leetcode-problems/tree/master/1202-smallest-string-with-swaps) |
 | [1345-jump-game-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/1345-jump-game-iv) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rhythm199/Leetcode-problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rhythm199/Leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/rhythm199/Leetcode-problems/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/rhythm199/Leetcode-problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -607,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [1109-corporate-flight-bookings](https://github.com/rhythm199/Leetcode-problems/tree/master/1109-corporate-flight-bookings) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rhythm199/Leetcode-problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/rhythm199/Leetcode-problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/rhythm199/Leetcode-problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1871-jump-game-vii](https://github.com/rhythm199/Leetcode-problems/tree/master/1871-jump-game-vii) |
