@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rhythm199/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2270-number-of-ways-to-split-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2270-number-of-ways-to-split-array) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/rhythm199/Leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/rhythm199/Leetcode-problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2312-selling-pieces-of-wood](https://github.com/rhythm199/Leetcode-problems/tree/master/2312-selling-pieces-of-wood) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/rhythm199/Leetcode-problems/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/rhythm199/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/rhythm199/Leetcode-problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/rhythm199/Leetcode-problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2454-next-greater-element-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/2454-next-greater-element-iv) |
 | [3143-maximum-points-inside-the-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3143-maximum-points-inside-the-square) |
 | [3356-zero-array-transformation-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3356-zero-array-transformation-ii) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/rhythm199/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [1871-jump-game-vii](https://github.com/rhythm199/Leetcode-problems/tree/master/1871-jump-game-vii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rhythm199/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/rhythm199/Leetcode-problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/rhythm199/Leetcode-problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1871-jump-game-vii](https://github.com/rhythm199/Leetcode-problems/tree/master/1871-jump-game-vii) |
 | [2270-number-of-ways-to-split-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2270-number-of-ways-to-split-array) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/rhythm199/Leetcode-problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2615-sum-of-distances](https://github.com/rhythm199/Leetcode-problems/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/2906-construct-product-matrix) |
 | [3225-maximum-score-from-grid-operations](https://github.com/rhythm199/Leetcode-problems/tree/master/3225-maximum-score-from-grid-operations) |
