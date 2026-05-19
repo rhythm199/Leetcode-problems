@@ -502,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/rhythm199/Leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rhythm199/Leetcode-problems/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/rhythm199/Leetcode-problems/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/rhythm199/Leetcode-problems/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/rhythm199/Leetcode-problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/rhythm199/Leetcode-problems/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/rhythm199/Leetcode-problems/tree/master/0149-max-points-on-a-line) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rhythm199/Leetcode-problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0752-open-the-lock](https://github.com/rhythm199/Leetcode-problems/tree/master/0752-open-the-lock) |
@@ -882,4 +884,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3799-word-squares-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3799-word-squares-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rhythm199/Leetcode-problems/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rhythm199/Leetcode-problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
