@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rhythm199/Leetcode-problems/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/rhythm199/Leetcode-problems/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/rhythm199/Leetcode-problems/tree/master/0148-sort-list) |
 | [0218-the-skyline-problem](https://github.com/rhythm199/Leetcode-problems/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rhythm199/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/rhythm199/Leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rhythm199/Leetcode-problems/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/rhythm199/Leetcode-problems/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rhythm199/Leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/rhythm199/Leetcode-problems/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/rhythm199/Leetcode-problems/tree/master/0190-reverse-bits) |
 | [0218-the-skyline-problem](https://github.com/rhythm199/Leetcode-problems/tree/master/0218-the-skyline-problem) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rhythm199/Leetcode-problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rhythm199/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/rhythm199/Leetcode-problems/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -603,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/rhythm199/Leetcode-problems/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rhythm199/Leetcode-problems/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/rhythm199/Leetcode-problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/rhythm199/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/rhythm199/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/rhythm199/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
