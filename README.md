@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/rhythm199/Leetcode-problems/tree/master/0752-open-the-lock) |
 | [0769-max-chunks-to-make-sorted](https://github.com/rhythm199/Leetcode-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0833-find-and-replace-in-string](https://github.com/rhythm199/Leetcode-problems/tree/master/0833-find-and-replace-in-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/rhythm199/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/rhythm199/Leetcode-problems/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1051-height-checker](https://github.com/rhythm199/Leetcode-problems/tree/master/1051-height-checker) |
 | [1109-corporate-flight-bookings](https://github.com/rhythm199/Leetcode-problems/tree/master/1109-corporate-flight-bookings) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/rhythm199/Leetcode-problems/tree/master/0752-open-the-lock) |
 | [0833-find-and-replace-in-string](https://github.com/rhythm199/Leetcode-problems/tree/master/0833-find-and-replace-in-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0992-subarrays-with-k-different-integers](https://github.com/rhythm199/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1202-smallest-string-with-swaps](https://github.com/rhythm199/Leetcode-problems/tree/master/1202-smallest-string-with-swaps) |
 | [1345-jump-game-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rhythm199/Leetcode-problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/rhythm199/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rhythm199/Leetcode-problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/rhythm199/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/rhythm199/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1871-jump-game-vii](https://github.com/rhythm199/Leetcode-problems/tree/master/1871-jump-game-vii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rhythm199/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/rhythm199/Leetcode-problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -725,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/rhythm199/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/rhythm199/Leetcode-problems/tree/master/2833-furthest-point-from-origin) |
 ## Greedy
