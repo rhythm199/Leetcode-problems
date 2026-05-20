@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/rhythm199/Leetcode-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0833-find-and-replace-in-string](https://github.com/rhythm199/Leetcode-problems/tree/master/0833-find-and-replace-in-string) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/rhythm199/Leetcode-problems/tree/master/1007-minimum-domino-rotations-for-equal-row) |
+| [1051-height-checker](https://github.com/rhythm199/Leetcode-problems/tree/master/1051-height-checker) |
 | [1109-corporate-flight-bookings](https://github.com/rhythm199/Leetcode-problems/tree/master/1109-corporate-flight-bookings) |
 | [1202-smallest-string-with-swaps](https://github.com/rhythm199/Leetcode-problems/tree/master/1202-smallest-string-with-swaps) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/rhythm199/Leetcode-problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/rhythm199/Leetcode-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0833-find-and-replace-in-string](https://github.com/rhythm199/Leetcode-problems/tree/master/0833-find-and-replace-in-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1051-height-checker](https://github.com/rhythm199/Leetcode-problems/tree/master/1051-height-checker) |
 | [1202-smallest-string-with-swaps](https://github.com/rhythm199/Leetcode-problems/tree/master/1202-smallest-string-with-swaps) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rhythm199/Leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rhythm199/Leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -913,4 +915,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/rhythm199/Leetcode-problems/tree/master/0146-lru-cache) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/rhythm199/Leetcode-problems/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
