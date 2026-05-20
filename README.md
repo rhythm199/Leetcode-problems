@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/rhythm199/Leetcode-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rhythm199/Leetcode-problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2967-minimum-cost-to-make-array-equalindromic](https://github.com/rhythm199/Leetcode-problems/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/rhythm199/Leetcode-problems/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rhythm199/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/rhythm199/Leetcode-problems/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/rhythm199/Leetcode-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2967-minimum-cost-to-make-array-equalindromic](https://github.com/rhythm199/Leetcode-problems/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3404-count-special-subsequences](https://github.com/rhythm199/Leetcode-problems/tree/master/3404-count-special-subsequences) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/rhythm199/Leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2784-check-if-array-is-good](https://github.com/rhythm199/Leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rhythm199/Leetcode-problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2967-minimum-cost-to-make-array-equalindromic](https://github.com/rhythm199/Leetcode-problems/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3143-maximum-points-inside-the-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3143-maximum-points-inside-the-square) |
 | [3362-zero-array-transformation-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/3362-zero-array-transformation-iii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/rhythm199/Leetcode-problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2454-next-greater-element-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/2454-next-greater-element-iv) |
 | [2540-minimum-common-value](https://github.com/rhythm199/Leetcode-problems/tree/master/2540-minimum-common-value) |
+| [2967-minimum-cost-to-make-array-equalindromic](https://github.com/rhythm199/Leetcode-problems/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3143-maximum-points-inside-the-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3143-maximum-points-inside-the-square) |
 | [3356-zero-array-transformation-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3356-zero-array-transformation-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -724,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/rhythm199/Leetcode-problems/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rhythm199/Leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2573-find-the-string-with-lcp](https://github.com/rhythm199/Leetcode-problems/tree/master/2573-find-the-string-with-lcp) |
+| [2967-minimum-cost-to-make-array-equalindromic](https://github.com/rhythm199/Leetcode-problems/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3362-zero-array-transformation-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/3362-zero-array-transformation-iii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
