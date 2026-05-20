@@ -254,8 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/rhythm199/Leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2540-minimum-common-value](https://github.com/rhythm199/Leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/rhythm199/Leetcode-problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2573-find-the-string-with-lcp](https://github.com/rhythm199/Leetcode-problems/tree/master/2573-find-the-string-with-lcp) |
-| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2615-sum-of-distances](https://github.com/rhythm199/Leetcode-problems/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rhythm199/Leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/rhythm199/Leetcode-problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -388,7 +388,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2454-next-greater-element-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/2454-next-greater-element-iv) |
 | [2463-minimum-total-distance-traveled](https://github.com/rhythm199/Leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
-| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2784-check-if-array-is-good](https://github.com/rhythm199/Leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rhythm199/Leetcode-problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/rhythm199/Leetcode-problems/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
@@ -415,7 +414,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2454-next-greater-element-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/2454-next-greater-element-iv) |
 | [2540-minimum-common-value](https://github.com/rhythm199/Leetcode-problems/tree/master/2540-minimum-common-value) |
-| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/rhythm199/Leetcode-problems/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3143-maximum-points-inside-the-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3143-maximum-points-inside-the-square) |
 | [3356-zero-array-transformation-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3356-zero-array-transformation-ii) |
@@ -652,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/rhythm199/Leetcode-problems/tree/master/1861-rotating-the-box) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rhythm199/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2540-minimum-common-value](https://github.com/rhythm199/Leetcode-problems/tree/master/2540-minimum-common-value) |
+| [2562-find-the-array-concatenation-value](https://github.com/rhythm199/Leetcode-problems/tree/master/2562-find-the-array-concatenation-value) |
 | [3356-zero-array-transformation-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3356-zero-array-transformation-ii) |
 | [3362-zero-array-transformation-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/3362-zero-array-transformation-iii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -705,7 +704,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-number-of-ways-to-split-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2270-number-of-ways-to-split-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/rhythm199/Leetcode-problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2448-minimum-cost-to-make-array-equal) |
-| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2615-sum-of-distances](https://github.com/rhythm199/Leetcode-problems/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/2906-construct-product-matrix) |
 | [3225-maximum-score-from-grid-operations](https://github.com/rhythm199/Leetcode-problems/tree/master/3225-maximum-score-from-grid-operations) |
@@ -729,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/rhythm199/Leetcode-problems/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/rhythm199/Leetcode-problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/rhythm199/Leetcode-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3072-distribute-elements-into-two-arrays-ii) |
