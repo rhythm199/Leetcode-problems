@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rhythm199/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rhythm199/Leetcode-problems/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rhythm199/Leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0263-ugly-number](https://github.com/rhythm199/Leetcode-problems/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/rhythm199/Leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/rhythm199/Leetcode-problems/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/rhythm199/Leetcode-problems/tree/master/0343-integer-break) |
