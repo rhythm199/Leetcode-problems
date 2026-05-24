@@ -1046,4 +1046,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rhythm199/Leetcode-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/rhythm199/Leetcode-problems/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
