@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/rhythm199/Leetcode-problems/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/rhythm199/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/rhythm199/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/rhythm199/Leetcode-problems/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/rhythm199/Leetcode-problems/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/rhythm199/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/rhythm199/Leetcode-problems/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/rhythm199/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rhythm199/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/rhythm199/Leetcode-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0833-find-and-replace-in-string](https://github.com/rhythm199/Leetcode-problems/tree/master/0833-find-and-replace-in-string) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/rhythm199/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/rhythm199/Leetcode-problems/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/rhythm199/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/rhythm199/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [1696-jump-game-vi](https://github.com/rhythm199/Leetcode-problems/tree/master/1696-jump-game-vi) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/rhythm199/Leetcode-problems/tree/master/1801-number-of-orders-in-the-backlog) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/rhythm199/Leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/rhythm199/Leetcode-problems/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/rhythm199/Leetcode-problems/tree/master/0190-reverse-bits) |
 | [0218-the-skyline-problem](https://github.com/rhythm199/Leetcode-problems/tree/master/0218-the-skyline-problem) |
+| [0347-top-k-frequent-elements](https://github.com/rhythm199/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rhythm199/Leetcode-problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Merge Sort
 |  |
@@ -650,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/rhythm199/Leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/rhythm199/Leetcode-problems/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/rhythm199/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/rhythm199/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rhythm199/Leetcode-problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0454-4sum-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0454-4sum-ii) |
 | [0752-open-the-lock](https://github.com/rhythm199/Leetcode-problems/tree/master/0752-open-the-lock) |
@@ -814,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rhythm199/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rhythm199/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rhythm199/Leetcode-problems/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2206-divide-array-into-equal-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
@@ -1000,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/rhythm199/Leetcode-problems/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/rhythm199/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1051,4 +1058,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/rhythm199/Leetcode-problems/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/rhythm199/Leetcode-problems/tree/master/0197-rising-temperature) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rhythm199/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
