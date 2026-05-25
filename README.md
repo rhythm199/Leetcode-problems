@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rhythm199/Leetcode-problems/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/rhythm199/Leetcode-problems/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rhythm199/Leetcode-problems/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/rhythm199/Leetcode-problems/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2573-find-the-string-with-lcp](https://github.com/rhythm199/Leetcode-problems/tree/master/2573-find-the-string-with-lcp) |
 | [2833-furthest-point-from-origin](https://github.com/rhythm199/Leetcode-problems/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/rhythm199/Leetcode-problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/rhythm199/Leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2540-minimum-common-value](https://github.com/rhythm199/Leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/rhythm199/Leetcode-problems/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2562-find-the-array-concatenation-value](https://github.com/rhythm199/Leetcode-problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2573-find-the-string-with-lcp](https://github.com/rhythm199/Leetcode-problems/tree/master/2573-find-the-string-with-lcp) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -799,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-number-of-ways-to-split-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2270-number-of-ways-to-split-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/rhythm199/Leetcode-problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/rhythm199/Leetcode-problems/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2615-sum-of-distances](https://github.com/rhythm199/Leetcode-problems/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/2906-construct-product-matrix) |
