@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/rhythm199/Leetcode-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rhythm199/Leetcode-problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/rhythm199/Leetcode-problems/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/rhythm199/Leetcode-problems/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rhythm199/Leetcode-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/rhythm199/Leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rhythm199/Leetcode-problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/rhythm199/Leetcode-problems/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/rhythm199/Leetcode-problems/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3143-maximum-points-inside-the-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3143-maximum-points-inside-the-square) |
 | [3362-zero-array-transformation-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/3362-zero-array-transformation-iii) |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/rhythm199/Leetcode-problems/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2861-maximum-number-of-alloys](https://github.com/rhythm199/Leetcode-problems/tree/master/2861-maximum-number-of-alloys) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/rhythm199/Leetcode-problems/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/rhythm199/Leetcode-problems/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3143-maximum-points-inside-the-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3143-maximum-points-inside-the-square) |
 | [3356-zero-array-transformation-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3356-zero-array-transformation-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -726,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rhythm199/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/rhythm199/Leetcode-problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/rhythm199/Leetcode-problems/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -816,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2615-sum-of-distances](https://github.com/rhythm199/Leetcode-problems/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/2906-construct-product-matrix) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/rhythm199/Leetcode-problems/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3225-maximum-score-from-grid-operations](https://github.com/rhythm199/Leetcode-problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3355-zero-array-transformation-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3356-zero-array-transformation-ii) |
