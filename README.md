@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/rhythm199/Leetcode-problems/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rhythm199/Leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/rhythm199/Leetcode-problems/tree/master/1801-number-of-orders-in-the-backlog) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/rhythm199/Leetcode-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1861-rotating-the-box](https://github.com/rhythm199/Leetcode-problems/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rhythm199/Leetcode-problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/rhythm199/Leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rhythm199/Leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1686-stone-game-vi](https://github.com/rhythm199/Leetcode-problems/tree/master/1686-stone-game-vi) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/rhythm199/Leetcode-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rhythm199/Leetcode-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/rhythm199/Leetcode-problems/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/rhythm199/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/rhythm199/Leetcode-problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/rhythm199/Leetcode-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rhythm199/Leetcode-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/rhythm199/Leetcode-problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -725,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rhythm199/Leetcode-problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/rhythm199/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rhythm199/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/rhythm199/Leetcode-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/rhythm199/Leetcode-problems/tree/master/1871-jump-game-vii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rhythm199/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/rhythm199/Leetcode-problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -812,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rhythm199/Leetcode-problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/rhythm199/Leetcode-problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/rhythm199/Leetcode-problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/rhythm199/Leetcode-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/rhythm199/Leetcode-problems/tree/master/1871-jump-game-vii) |
 | [2270-number-of-ways-to-split-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2270-number-of-ways-to-split-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/rhythm199/Leetcode-problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -875,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/rhythm199/Leetcode-problems/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rhythm199/Leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1686-stone-game-vi](https://github.com/rhythm199/Leetcode-problems/tree/master/1686-stone-game-vi) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/rhythm199/Leetcode-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rhythm199/Leetcode-problems/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/rhythm199/Leetcode-problems/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2448-minimum-cost-to-make-array-equal) |
