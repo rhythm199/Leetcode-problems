@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/rhythm199/Leetcode-problems/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/rhythm199/Leetcode-problems/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2401-longest-nice-subarray](https://github.com/rhythm199/Leetcode-problems/tree/master/2401-longest-nice-subarray) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/rhythm199/Leetcode-problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rhythm199/Leetcode-problems/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-maximum-genetic-difference-query](https://github.com/rhythm199/Leetcode-problems/tree/master/1938-maximum-genetic-difference-query) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rhythm199/Leetcode-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2206-divide-array-into-equal-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
+| [2401-longest-nice-subarray](https://github.com/rhythm199/Leetcode-problems/tree/master/2401-longest-nice-subarray) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/rhythm199/Leetcode-problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rhythm199/Leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rhythm199/Leetcode-problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/rhythm199/Leetcode-problems/tree/master/1871-jump-game-vii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rhythm199/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/rhythm199/Leetcode-problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2401-longest-nice-subarray](https://github.com/rhythm199/Leetcode-problems/tree/master/2401-longest-nice-subarray) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/rhythm199/Leetcode-problems/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 ## Two Pointers
