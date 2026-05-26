@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/rhythm199/Leetcode-problems/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/rhythm199/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/rhythm199/Leetcode-problems/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/rhythm199/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/rhythm199/Leetcode-problems/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/rhythm199/Leetcode-problems/tree/master/0403-frog-jump) |
@@ -806,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/rhythm199/Leetcode-problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/rhythm199/Leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/rhythm199/Leetcode-problems/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/rhythm199/Leetcode-problems/tree/master/0289-game-of-life) |
 | [0566-reshape-the-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/rhythm199/Leetcode-problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -864,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rhythm199/Leetcode-problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/rhythm199/Leetcode-problems/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/rhythm199/Leetcode-problems/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/rhythm199/Leetcode-problems/tree/master/0289-game-of-life) |
 | [0566-reshape-the-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/rhythm199/Leetcode-problems/tree/master/0682-baseball-game) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rhythm199/Leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
