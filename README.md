@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/rhythm199/Leetcode-problems/tree/master/0796-rotate-string) |
 | [0811-subdomain-visit-count](https://github.com/rhythm199/Leetcode-problems/tree/master/0811-subdomain-visit-count) |
 | [0833-find-and-replace-in-string](https://github.com/rhythm199/Leetcode-problems/tree/master/0833-find-and-replace-in-string) |
+| [0990-satisfiability-of-equality-equations](https://github.com/rhythm199/Leetcode-problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1044-longest-duplicate-substring](https://github.com/rhythm199/Leetcode-problems/tree/master/1044-longest-duplicate-substring) |
 | [1202-smallest-string-with-swaps](https://github.com/rhythm199/Leetcode-problems/tree/master/1202-smallest-string-with-swaps) |
 | [1598-crawler-log-folder](https://github.com/rhythm199/Leetcode-problems/tree/master/1598-crawler-log-folder) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/rhythm199/Leetcode-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0811-subdomain-visit-count](https://github.com/rhythm199/Leetcode-problems/tree/master/0811-subdomain-visit-count) |
 | [0833-find-and-replace-in-string](https://github.com/rhythm199/Leetcode-problems/tree/master/0833-find-and-replace-in-string) |
+| [0990-satisfiability-of-equality-equations](https://github.com/rhythm199/Leetcode-problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rhythm199/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/rhythm199/Leetcode-problems/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1051-height-checker](https://github.com/rhythm199/Leetcode-problems/tree/master/1051-height-checker) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rhythm199/Leetcode-problems/tree/master/0200-number-of-islands) |
+| [0990-satisfiability-of-equality-equations](https://github.com/rhythm199/Leetcode-problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1202-smallest-string-with-swaps](https://github.com/rhythm199/Leetcode-problems/tree/master/1202-smallest-string-with-swaps) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1015,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0990-satisfiability-of-equality-equations](https://github.com/rhythm199/Leetcode-problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/rhythm199/Leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/rhythm199/Leetcode-problems/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/rhythm199/Leetcode-problems/tree/master/2368-reachable-nodes-with-restrictions) |
