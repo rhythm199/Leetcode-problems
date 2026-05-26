@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/rhythm199/Leetcode-problems/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/rhythm199/Leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/rhythm199/Leetcode-problems/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/rhythm199/Leetcode-problems/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/rhythm199/Leetcode-problems/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/rhythm199/Leetcode-problems/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rhythm199/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -1144,9 +1145,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/rhythm199/Leetcode-problems/tree/master/0292-nim-game) |
 | [1686-stone-game-vi](https://github.com/rhythm199/Leetcode-problems/tree/master/1686-stone-game-vi) |
 ## Suffix Array
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/rhythm199/Leetcode-problems/tree/master/1044-longest-duplicate-substring) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/rhythm199/Leetcode-problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
