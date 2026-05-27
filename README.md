@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3143-maximum-points-inside-the-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3143-maximum-points-inside-the-square) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3799-word-squares-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3799-word-squares-ii) |
 ## Dynamic Programming
 |  |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3143-maximum-points-inside-the-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3143-maximum-points-inside-the-square) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rhythm199/Leetcode-problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3404-count-special-subsequences](https://github.com/rhythm199/Leetcode-problems/tree/master/3404-count-special-subsequences) |
 | [3488-closest-equal-element-queries](https://github.com/rhythm199/Leetcode-problems/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-longest-nice-subarray](https://github.com/rhythm199/Leetcode-problems/tree/master/2401-longest-nice-subarray) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/rhythm199/Leetcode-problems/tree/master/2968-apply-operations-to-maximize-frequency-score) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Two Pointers
 |  |
