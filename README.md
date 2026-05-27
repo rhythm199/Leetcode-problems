@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rhythm199/Leetcode-problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1488-avoid-flood-in-the-city](https://github.com/rhythm199/Leetcode-problems/tree/master/1488-avoid-flood-in-the-city) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/rhythm199/Leetcode-problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/rhythm199/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [1044-longest-duplicate-substring](https://github.com/rhythm199/Leetcode-problems/tree/master/1044-longest-duplicate-substring) |
+| [1488-avoid-flood-in-the-city](https://github.com/rhythm199/Leetcode-problems/tree/master/1488-avoid-flood-in-the-city) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/rhythm199/Leetcode-problems/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rhythm199/Leetcode-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rhythm199/Leetcode-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/rhythm199/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/rhythm199/Leetcode-problems/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/rhythm199/Leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [1488-avoid-flood-in-the-city](https://github.com/rhythm199/Leetcode-problems/tree/master/1488-avoid-flood-in-the-city) |
 | [1686-stone-game-vi](https://github.com/rhythm199/Leetcode-problems/tree/master/1686-stone-game-vi) |
 | [1696-jump-game-vi](https://github.com/rhythm199/Leetcode-problems/tree/master/1696-jump-game-vi) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/rhythm199/Leetcode-problems/tree/master/1801-number-of-orders-in-the-backlog) |
@@ -719,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/rhythm199/Leetcode-problems/tree/master/1202-smallest-string-with-swaps) |
 | [1345-jump-game-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rhythm199/Leetcode-problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1488-avoid-flood-in-the-city](https://github.com/rhythm199/Leetcode-problems/tree/master/1488-avoid-flood-in-the-city) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rhythm199/Leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/rhythm199/Leetcode-problems/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/rhythm199/Leetcode-problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -914,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/rhythm199/Leetcode-problems/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0769-max-chunks-to-make-sorted](https://github.com/rhythm199/Leetcode-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/rhythm199/Leetcode-problems/tree/master/1007-minimum-domino-rotations-for-equal-row) |
+| [1488-avoid-flood-in-the-city](https://github.com/rhythm199/Leetcode-problems/tree/master/1488-avoid-flood-in-the-city) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rhythm199/Leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1686-stone-game-vi](https://github.com/rhythm199/Leetcode-problems/tree/master/1686-stone-game-vi) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rhythm199/Leetcode-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
