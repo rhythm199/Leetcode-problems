@@ -622,7 +622,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/rhythm199/Leetcode-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1938-maximum-genetic-difference-query](https://github.com/rhythm199/Leetcode-problems/tree/master/1938-maximum-genetic-difference-query) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/rhythm199/Leetcode-problems/tree/master/2359-find-closest-node-to-given-two-nodes) |
-| [2360-longest-cycle-in-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2360-longest-cycle-in-a-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/rhythm199/Leetcode-problems/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/rhythm199/Leetcode-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Union-Find
@@ -995,7 +994,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/rhythm199/Leetcode-problems/tree/master/1654-minimum-jumps-to-reach-home) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/rhythm199/Leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
-| [2360-longest-cycle-in-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2360-longest-cycle-in-a-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/rhythm199/Leetcode-problems/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/rhythm199/Leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -1077,7 +1075,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1591-strange-printer-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/1591-strange-printer-ii) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/rhythm199/Leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/rhythm199/Leetcode-problems/tree/master/2359-find-closest-node-to-given-two-nodes) |
-| [2360-longest-cycle-in-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2360-longest-cycle-in-a-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/rhythm199/Leetcode-problems/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Combinatorics
@@ -1216,5 +1213,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1591-strange-printer-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/1591-strange-printer-ii) |
-| [2360-longest-cycle-in-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
