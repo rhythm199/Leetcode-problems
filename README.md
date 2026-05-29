@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/rhythm199/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/rhythm199/Leetcode-problems/tree/master/0274-h-index) |
+| [0284-peeking-iterator](https://github.com/rhythm199/Leetcode-problems/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/rhythm199/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/rhythm199/Leetcode-problems/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/rhythm199/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
@@ -1191,6 +1192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/rhythm199/Leetcode-problems/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/rhythm199/Leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/rhythm199/Leetcode-problems/tree/master/0284-peeking-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1255,4 +1257,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/rhythm199/Leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/rhythm199/Leetcode-problems/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
