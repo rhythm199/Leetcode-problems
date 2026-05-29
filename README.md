@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0140-word-break-ii) |
 | [0401-binary-watch](https://github.com/rhythm199/Leetcode-problems/tree/master/0401-binary-watch) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/rhythm199/Leetcode-problems/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [3799-word-squares-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3799-word-squares-ii) |
 ## Array
 |  |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rhythm199/Leetcode-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2057-smallest-index-with-equal-value](https://github.com/rhythm199/Leetcode-problems/tree/master/2057-smallest-index-with-equal-value) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rhythm199/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rhythm199/Leetcode-problems/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -1111,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/rhythm199/Leetcode-problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1591-strange-printer-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/1591-strange-printer-ii) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/rhythm199/Leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/rhythm199/Leetcode-problems/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2360-longest-cycle-in-a-graph) |
