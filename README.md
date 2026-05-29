@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/rhythm199/Leetcode-problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0546-remove-boxes](https://github.com/rhythm199/Leetcode-problems/tree/master/0546-remove-boxes) |
 | [0664-strange-printer](https://github.com/rhythm199/Leetcode-problems/tree/master/0664-strange-printer) |
+| [0741-cherry-pickup](https://github.com/rhythm199/Leetcode-problems/tree/master/0741-cherry-pickup) |
 | [0788-rotated-digits](https://github.com/rhythm199/Leetcode-problems/tree/master/0788-rotated-digits) |
 | [0805-split-array-with-same-average](https://github.com/rhythm199/Leetcode-problems/tree/master/0805-split-array-with-same-average) |
 | [1340-jump-game-v](https://github.com/rhythm199/Leetcode-problems/tree/master/1340-jump-game-v) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/rhythm199/Leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/rhythm199/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/rhythm199/Leetcode-problems/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0741-cherry-pickup](https://github.com/rhythm199/Leetcode-problems/tree/master/0741-cherry-pickup) |
 | [0752-open-the-lock](https://github.com/rhythm199/Leetcode-problems/tree/master/0752-open-the-lock) |
 | [0769-max-chunks-to-make-sorted](https://github.com/rhythm199/Leetcode-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0805-split-array-with-same-average](https://github.com/rhythm199/Leetcode-problems/tree/master/0805-split-array-with-same-average) |
@@ -872,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rhythm199/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/rhythm199/Leetcode-problems/tree/master/0289-game-of-life) |
 | [0566-reshape-the-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/0566-reshape-the-matrix) |
+| [0741-cherry-pickup](https://github.com/rhythm199/Leetcode-problems/tree/master/0741-cherry-pickup) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/rhythm199/Leetcode-problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
