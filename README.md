@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/rhythm199/Leetcode-problems/tree/master/0401-binary-watch) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/rhythm199/Leetcode-problems/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2065-maximum-path-quality-of-a-graph) |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/rhythm199/Leetcode-problems/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [3799-word-squares-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3799-word-squares-ii) |
 ## Array
 |  |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/rhythm199/Leetcode-problems/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/rhythm199/Leetcode-problems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2256-minimum-average-difference](https://github.com/rhythm199/Leetcode-problems/tree/master/2256-minimum-average-difference) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rhythm199/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-maximum-genetic-difference-query](https://github.com/rhythm199/Leetcode-problems/tree/master/1938-maximum-genetic-difference-query) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rhythm199/Leetcode-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2206-divide-array-into-equal-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/rhythm199/Leetcode-problems/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2401-longest-nice-subarray](https://github.com/rhythm199/Leetcode-problems/tree/master/2401-longest-nice-subarray) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/rhythm199/Leetcode-problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rhythm199/Leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -1228,6 +1231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/rhythm199/Leetcode-problems/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/rhythm199/Leetcode-problems/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/rhythm199/Leetcode-problems/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/rhythm199/Leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3127-make-a-square-with-the-same-color](https://github.com/rhythm199/Leetcode-problems/tree/master/3127-make-a-square-with-the-same-color) |
