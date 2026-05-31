@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/rhythm199/Leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2451-odd-string-difference](https://github.com/rhythm199/Leetcode-problems/tree/master/2451-odd-string-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rhythm199/Leetcode-problems/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/rhythm199/Leetcode-problems/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2573-find-the-string-with-lcp](https://github.com/rhythm199/Leetcode-problems/tree/master/2573-find-the-string-with-lcp) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2312-selling-pieces-of-wood](https://github.com/rhythm199/Leetcode-problems/tree/master/2312-selling-pieces-of-wood) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/rhythm199/Leetcode-problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/rhythm199/Leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/rhythm199/Leetcode-problems/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/rhythm199/Leetcode-problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/rhythm199/Leetcode-problems/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
@@ -899,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/rhythm199/Leetcode-problems/tree/master/1861-rotating-the-box) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rhythm199/Leetcode-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rhythm199/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/rhythm199/Leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/rhythm199/Leetcode-problems/tree/master/2562-find-the-array-concatenation-value) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/rhythm199/Leetcode-problems/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -1046,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/rhythm199/Leetcode-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/rhythm199/Leetcode-problems/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/rhythm199/Leetcode-problems/tree/master/2573-find-the-string-with-lcp) |
 | [2895-minimum-processing-time](https://github.com/rhythm199/Leetcode-problems/tree/master/2895-minimum-processing-time) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/rhythm199/Leetcode-problems/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
