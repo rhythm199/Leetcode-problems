@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rhythm199/Leetcode-problems/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/rhythm199/Leetcode-problems/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2206-divide-array-into-equal-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2212-maximum-points-in-an-archery-competition](https://github.com/rhythm199/Leetcode-problems/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/rhythm199/Leetcode-problems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -1027,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1936-add-minimum-number-of-rungs](https://github.com/rhythm199/Leetcode-problems/tree/master/1936-add-minimum-number-of-rungs) |
 | [2126-destroying-asteroids](https://github.com/rhythm199/Leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rhythm199/Leetcode-problems/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/rhythm199/Leetcode-problems/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/rhythm199/Leetcode-problems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/rhythm199/Leetcode-problems/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2448-minimum-cost-to-make-array-equal) |
