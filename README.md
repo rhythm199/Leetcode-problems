@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/rhythm199/Leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rhythm199/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/rhythm199/Leetcode-problems/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/rhythm199/Leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rhythm199/Leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/rhythm199/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/rhythm199/Leetcode-problems/tree/master/0273-integer-to-english-words) |
@@ -796,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/rhythm199/Leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/rhythm199/Leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/rhythm199/Leetcode-problems/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/rhythm199/Leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rhythm199/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rhythm199/Leetcode-problems/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/rhythm199/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
