@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/rhythm199/Leetcode-problems/tree/master/0554-brick-wall) |
 | [0561-array-partition](https://github.com/rhythm199/Leetcode-problems/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/rhythm199/Leetcode-problems/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rhythm199/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/rhythm199/Leetcode-problems/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0682-baseball-game](https://github.com/rhythm199/Leetcode-problems/tree/master/0682-baseball-game) |
@@ -825,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/rhythm199/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0454-4sum-ii) |
 | [0554-brick-wall](https://github.com/rhythm199/Leetcode-problems/tree/master/0554-brick-wall) |
+| [0575-distribute-candies](https://github.com/rhythm199/Leetcode-problems/tree/master/0575-distribute-candies) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/rhythm199/Leetcode-problems/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/rhythm199/Leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0752-open-the-lock](https://github.com/rhythm199/Leetcode-problems/tree/master/0752-open-the-lock) |
