@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/rhythm199/Leetcode-problems/tree/master/0546-remove-boxes) |
 | [0664-strange-printer](https://github.com/rhythm199/Leetcode-problems/tree/master/0664-strange-printer) |
 | [0741-cherry-pickup](https://github.com/rhythm199/Leetcode-problems/tree/master/0741-cherry-pickup) |
+| [0764-largest-plus-sign](https://github.com/rhythm199/Leetcode-problems/tree/master/0764-largest-plus-sign) |
 | [0788-rotated-digits](https://github.com/rhythm199/Leetcode-problems/tree/master/0788-rotated-digits) |
 | [0805-split-array-with-same-average](https://github.com/rhythm199/Leetcode-problems/tree/master/0805-split-array-with-same-average) |
 | [1340-jump-game-v](https://github.com/rhythm199/Leetcode-problems/tree/master/1340-jump-game-v) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/rhythm199/Leetcode-problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0741-cherry-pickup](https://github.com/rhythm199/Leetcode-problems/tree/master/0741-cherry-pickup) |
 | [0752-open-the-lock](https://github.com/rhythm199/Leetcode-problems/tree/master/0752-open-the-lock) |
+| [0764-largest-plus-sign](https://github.com/rhythm199/Leetcode-problems/tree/master/0764-largest-plus-sign) |
 | [0769-max-chunks-to-make-sorted](https://github.com/rhythm199/Leetcode-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0805-split-array-with-same-average](https://github.com/rhythm199/Leetcode-problems/tree/master/0805-split-array-with-same-average) |
 | [0811-subdomain-visit-count](https://github.com/rhythm199/Leetcode-problems/tree/master/0811-subdomain-visit-count) |
