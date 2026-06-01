@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/rhythm199/Leetcode-problems/tree/master/3093-longest-common-suffix-queries) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/rhythm199/Leetcode-problems/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3127-make-a-square-with-the-same-color](https://github.com/rhythm199/Leetcode-problems/tree/master/3127-make-a-square-with-the-same-color) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/rhythm199/Leetcode-problems/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3143-maximum-points-inside-the-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3143-maximum-points-inside-the-square) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rhythm199/Leetcode-problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -963,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/rhythm199/Leetcode-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/rhythm199/Leetcode-problems/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3127-make-a-square-with-the-same-color](https://github.com/rhythm199/Leetcode-problems/tree/master/3127-make-a-square-with-the-same-color) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/rhythm199/Leetcode-problems/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/rhythm199/Leetcode-problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
