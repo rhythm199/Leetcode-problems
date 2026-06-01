@@ -151,7 +151,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/rhythm199/Leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/rhythm199/Leetcode-problems/tree/master/2573-find-the-string-with-lcp) |
-| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/rhythm199/Leetcode-problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/rhythm199/Leetcode-problems/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3148-maximum-difference-score-in-a-grid) |
@@ -374,7 +373,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/rhythm199/Leetcode-problems/tree/master/2573-find-the-string-with-lcp) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2615-sum-of-distances](https://github.com/rhythm199/Leetcode-problems/tree/master/2615-sum-of-distances) |
-| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/rhythm199/Leetcode-problems/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rhythm199/Leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -570,7 +568,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-next-greater-element-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/2454-next-greater-element-iv) |
 | [2463-minimum-total-distance-traveled](https://github.com/rhythm199/Leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
-| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2784-check-if-array-is-good](https://github.com/rhythm199/Leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [2895-minimum-processing-time](https://github.com/rhythm199/Leetcode-problems/tree/master/2895-minimum-processing-time) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rhythm199/Leetcode-problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -612,7 +609,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-next-greater-element-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/2454-next-greater-element-iv) |
 | [2540-minimum-common-value](https://github.com/rhythm199/Leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
-| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2861-maximum-number-of-alloys](https://github.com/rhythm199/Leetcode-problems/tree/master/2861-maximum-number-of-alloys) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/rhythm199/Leetcode-problems/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/rhythm199/Leetcode-problems/tree/master/2968-apply-operations-to-maximize-frequency-score) |
@@ -1074,7 +1070,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/rhythm199/Leetcode-problems/tree/master/2573-find-the-string-with-lcp) |
-| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2895-minimum-processing-time](https://github.com/rhythm199/Leetcode-problems/tree/master/2895-minimum-processing-time) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/rhythm199/Leetcode-problems/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/rhythm199/Leetcode-problems/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
