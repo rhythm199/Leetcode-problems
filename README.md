@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rhythm199/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/rhythm199/Leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rhythm199/Leetcode-problems/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rhythm199/Leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/rhythm199/Leetcode-problems/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rhythm199/Leetcode-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2126-destroying-asteroids](https://github.com/rhythm199/Leetcode-problems/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rhythm199/Leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rhythm199/Leetcode-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/rhythm199/Leetcode-problems/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -1046,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1936-add-minimum-number-of-rungs](https://github.com/rhythm199/Leetcode-problems/tree/master/1936-add-minimum-number-of-rungs) |
 | [2126-destroying-asteroids](https://github.com/rhythm199/Leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rhythm199/Leetcode-problems/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rhythm199/Leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/rhythm199/Leetcode-problems/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/rhythm199/Leetcode-problems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rhythm199/Leetcode-problems/tree/master/2333-minimum-sum-of-squared-difference) |
