@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/rhythm199/Leetcode-problems/tree/master/1598-crawler-log-folder) |
 | [1871-jump-game-vii](https://github.com/rhythm199/Leetcode-problems/tree/master/1871-jump-game-vii) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/rhythm199/Leetcode-problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/rhythm199/Leetcode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/rhythm199/Leetcode-problems/tree/master/2129-capitalize-the-title) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rhythm199/Leetcode-problems/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/rhythm199/Leetcode-problems/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/rhythm199/Leetcode-problems/tree/master/2057-smallest-index-with-equal-value) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rhythm199/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/rhythm199/Leetcode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2126-destroying-asteroids](https://github.com/rhythm199/Leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rhythm199/Leetcode-problems/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rhythm199/Leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
