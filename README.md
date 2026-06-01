@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/rhythm199/Leetcode-problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/rhythm199/Leetcode-problems/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/rhythm199/Leetcode-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/rhythm199/Leetcode-problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rhythm199/Leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rhythm199/Leetcode-problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/rhythm199/Leetcode-problems/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3677-count-binary-palindromic-numbers](https://github.com/rhythm199/Leetcode-problems/tree/master/3677-count-binary-palindromic-numbers) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/rhythm199/Leetcode-problems/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
@@ -1296,6 +1298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/rhythm199/Leetcode-problems/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/rhythm199/Leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3127-make-a-square-with-the-same-color](https://github.com/rhythm199/Leetcode-problems/tree/master/3127-make-a-square-with-the-same-color) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/rhythm199/Leetcode-problems/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3404-count-special-subsequences](https://github.com/rhythm199/Leetcode-problems/tree/master/3404-count-special-subsequences) |
 | [3546-equal-sum-grid-partition-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3548-equal-sum-grid-partition-ii) |
