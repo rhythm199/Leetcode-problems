@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-largest-plus-sign](https://github.com/rhythm199/Leetcode-problems/tree/master/0764-largest-plus-sign) |
 | [0769-max-chunks-to-make-sorted](https://github.com/rhythm199/Leetcode-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0773-sliding-puzzle](https://github.com/rhythm199/Leetcode-problems/tree/master/0773-sliding-puzzle) |
+| [0789-escape-the-ghosts](https://github.com/rhythm199/Leetcode-problems/tree/master/0789-escape-the-ghosts) |
 | [0805-split-array-with-same-average](https://github.com/rhythm199/Leetcode-problems/tree/master/0805-split-array-with-same-average) |
 | [0811-subdomain-visit-count](https://github.com/rhythm199/Leetcode-problems/tree/master/0811-subdomain-visit-count) |
 | [0833-find-and-replace-in-string](https://github.com/rhythm199/Leetcode-problems/tree/master/0833-find-and-replace-in-string) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/rhythm199/Leetcode-problems/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rhythm199/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/rhythm199/Leetcode-problems/tree/master/0788-rotated-digits) |
+| [0789-escape-the-ghosts](https://github.com/rhythm199/Leetcode-problems/tree/master/0789-escape-the-ghosts) |
 | [0805-split-array-with-same-average](https://github.com/rhythm199/Leetcode-problems/tree/master/0805-split-array-with-same-average) |
 | [1154-day-of-the-year](https://github.com/rhythm199/Leetcode-problems/tree/master/1154-day-of-the-year) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rhythm199/Leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
