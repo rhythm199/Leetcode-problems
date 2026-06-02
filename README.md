@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/rhythm199/Leetcode-problems/tree/master/3161-block-placement-queries) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/rhythm199/Leetcode-problems/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3225-maximum-score-from-grid-operations](https://github.com/rhythm199/Leetcode-problems/tree/master/3225-maximum-score-from-grid-operations) |
+| [3282-reach-end-of-array-with-max-score](https://github.com/rhythm199/Leetcode-problems/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/rhythm199/Leetcode-problems/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
@@ -1114,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/rhythm199/Leetcode-problems/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/rhythm199/Leetcode-problems/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3282-reach-end-of-array-with-max-score](https://github.com/rhythm199/Leetcode-problems/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/rhythm199/Leetcode-problems/tree/master/3357-minimize-the-maximum-adjacent-element-difference) |
 | [3362-zero-array-transformation-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/3362-zero-array-transformation-iii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
