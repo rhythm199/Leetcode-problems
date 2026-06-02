@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/rhythm199/Leetcode-problems/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/rhythm199/Leetcode-problems/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3489-zero-array-transformation-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/3489-zero-array-transformation-iv) |
+| [3640-trionic-array-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3640-trionic-array-ii) |
 | [3660-jump-game-ix](https://github.com/rhythm199/Leetcode-problems/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Backtracking
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/rhythm199/Leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3640-trionic-array-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3640-trionic-array-ii) |
 | [3660-jump-game-ix](https://github.com/rhythm199/Leetcode-problems/tree/master/3660-jump-game-ix) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3742-maximum-path-score-in-a-grid) |
