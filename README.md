@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/rhythm199/Leetcode-problems/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3799-word-squares-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3799-word-squares-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/rhythm199/Leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3677-count-binary-palindromic-numbers](https://github.com/rhythm199/Leetcode-problems/tree/master/3677-count-binary-palindromic-numbers) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -944,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/rhythm199/Leetcode-problems/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -1044,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -1274,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/rhythm199/Leetcode-problems/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/rhythm199/Leetcode-problems/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/rhythm199/Leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Shortest Path
 |  |
 | ------- |
