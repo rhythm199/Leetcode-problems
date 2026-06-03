@@ -501,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/rhythm199/Leetcode-problems/tree/master/0805-split-array-with-same-average) |
 | [1154-day-of-the-year](https://github.com/rhythm199/Leetcode-problems/tree/master/1154-day-of-the-year) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rhythm199/Leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/rhythm199/Leetcode-problems/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1363-largest-multiple-of-three](https://github.com/rhythm199/Leetcode-problems/tree/master/1363-largest-multiple-of-three) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rhythm199/Leetcode-problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1686-stone-game-vi](https://github.com/rhythm199/Leetcode-problems/tree/master/1686-stone-game-vi) |
