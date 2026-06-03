@@ -370,7 +370,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rhythm199/Leetcode-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/rhythm199/Leetcode-problems/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/2373-largest-local-values-in-a-matrix) |
-| [2386-find-the-k-sum-of-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2401-longest-nice-subarray](https://github.com/rhythm199/Leetcode-problems/tree/master/2401-longest-nice-subarray) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/rhythm199/Leetcode-problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/rhythm199/Leetcode-problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -592,7 +591,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/rhythm199/Leetcode-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/rhythm199/Leetcode-problems/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rhythm199/Leetcode-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
-| [2386-find-the-k-sum-of-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2454-next-greater-element-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/2454-next-greater-element-iv) |
 | [2463-minimum-total-distance-traveled](https://github.com/rhythm199/Leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
@@ -694,7 +692,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/rhythm199/Leetcode-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/rhythm199/Leetcode-problems/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rhythm199/Leetcode-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
-| [2386-find-the-k-sum-of-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2454-next-greater-element-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/2454-next-greater-element-iv) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
