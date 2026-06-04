@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/rhythm199/Leetcode-problems/tree/master/0709-to-lower-case) |
 | [0752-open-the-lock](https://github.com/rhythm199/Leetcode-problems/tree/master/0752-open-the-lock) |
+| [0756-pyramid-transition-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0796-rotate-string](https://github.com/rhythm199/Leetcode-problems/tree/master/0796-rotate-string) |
 | [0811-subdomain-visit-count](https://github.com/rhythm199/Leetcode-problems/tree/master/0811-subdomain-visit-count) |
 | [0833-find-and-replace-in-string](https://github.com/rhythm199/Leetcode-problems/tree/master/0833-find-and-replace-in-string) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0140-word-break-ii) |
 | [0401-binary-watch](https://github.com/rhythm199/Leetcode-problems/tree/master/0401-binary-watch) |
+| [0756-pyramid-transition-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0773-sliding-puzzle](https://github.com/rhythm199/Leetcode-problems/tree/master/0773-sliding-puzzle) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/rhythm199/Leetcode-problems/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2065-maximum-path-quality-of-a-graph) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rhythm199/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/rhythm199/Leetcode-problems/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/rhythm199/Leetcode-problems/tree/master/0477-total-hamming-distance) |
+| [0756-pyramid-transition-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0805-split-array-with-same-average](https://github.com/rhythm199/Leetcode-problems/tree/master/0805-split-array-with-same-average) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rhythm199/Leetcode-problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/rhythm199/Leetcode-problems/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
@@ -900,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/rhythm199/Leetcode-problems/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/rhythm199/Leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0752-open-the-lock](https://github.com/rhythm199/Leetcode-problems/tree/master/0752-open-the-lock) |
+| [0756-pyramid-transition-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0805-split-array-with-same-average](https://github.com/rhythm199/Leetcode-problems/tree/master/0805-split-array-with-same-average) |
 | [0811-subdomain-visit-count](https://github.com/rhythm199/Leetcode-problems/tree/master/0811-subdomain-visit-count) |
 | [0833-find-and-replace-in-string](https://github.com/rhythm199/Leetcode-problems/tree/master/0833-find-and-replace-in-string) |
