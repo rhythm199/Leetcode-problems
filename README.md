@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/rhythm199/Leetcode-problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/rhythm199/Leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/rhythm199/Leetcode-problems/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2861-maximum-number-of-alloys](https://github.com/rhythm199/Leetcode-problems/tree/master/2861-maximum-number-of-alloys) |
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/rhythm199/Leetcode-problems/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/rhythm199/Leetcode-problems/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2784-check-if-array-is-good](https://github.com/rhythm199/Leetcode-problems/tree/master/2784-check-if-array-is-good) |
+| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/rhythm199/Leetcode-problems/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2895-minimum-processing-time](https://github.com/rhythm199/Leetcode-problems/tree/master/2895-minimum-processing-time) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rhythm199/Leetcode-problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/rhythm199/Leetcode-problems/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/rhythm199/Leetcode-problems/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rhythm199/Leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2454-next-greater-element-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/2454-next-greater-element-iv) |
+| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/rhythm199/Leetcode-problems/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rhythm199/Leetcode-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2454-next-greater-element-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/2454-next-greater-element-iv) |
+| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/rhythm199/Leetcode-problems/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -936,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2784-check-if-array-is-good](https://github.com/rhythm199/Leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/rhythm199/Leetcode-problems/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/rhythm199/Leetcode-problems/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rhythm199/Leetcode-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -1176,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/rhythm199/Leetcode-problems/tree/master/2573-find-the-string-with-lcp) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/rhythm199/Leetcode-problems/tree/master/2697-lexicographically-smallest-palindrome) |
+| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/rhythm199/Leetcode-problems/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2895-minimum-processing-time](https://github.com/rhythm199/Leetcode-problems/tree/master/2895-minimum-processing-time) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/rhythm199/Leetcode-problems/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/rhythm199/Leetcode-problems/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
