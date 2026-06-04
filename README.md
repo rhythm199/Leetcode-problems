@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/rhythm199/Leetcode-problems/tree/master/0811-subdomain-visit-count) |
 | [0833-find-and-replace-in-string](https://github.com/rhythm199/Leetcode-problems/tree/master/0833-find-and-replace-in-string) |
 | [0859-buddy-strings](https://github.com/rhythm199/Leetcode-problems/tree/master/0859-buddy-strings) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/rhythm199/Leetcode-problems/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0990-satisfiability-of-equality-equations](https://github.com/rhythm199/Leetcode-problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1044-longest-duplicate-substring](https://github.com/rhythm199/Leetcode-problems/tree/master/1044-longest-duplicate-substring) |
 | [1154-day-of-the-year](https://github.com/rhythm199/Leetcode-problems/tree/master/1154-day-of-the-year) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0773-sliding-puzzle](https://github.com/rhythm199/Leetcode-problems/tree/master/0773-sliding-puzzle) |
 | [0788-rotated-digits](https://github.com/rhythm199/Leetcode-problems/tree/master/0788-rotated-digits) |
 | [0805-split-array-with-same-average](https://github.com/rhythm199/Leetcode-problems/tree/master/0805-split-array-with-same-average) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/rhythm199/Leetcode-problems/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1340-jump-game-v](https://github.com/rhythm199/Leetcode-problems/tree/master/1340-jump-game-v) |
 | [1363-largest-multiple-of-three](https://github.com/rhythm199/Leetcode-problems/tree/master/1363-largest-multiple-of-three) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/rhythm199/Leetcode-problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -1063,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/rhythm199/Leetcode-problems/tree/master/0528-random-pick-with-weight) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rhythm199/Leetcode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/rhythm199/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/rhythm199/Leetcode-problems/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rhythm199/Leetcode-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1109-corporate-flight-bookings](https://github.com/rhythm199/Leetcode-problems/tree/master/1109-corporate-flight-bookings) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rhythm199/Leetcode-problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
