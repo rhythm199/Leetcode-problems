@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/rhythm199/Leetcode-problems/tree/master/3357-minimize-the-maximum-adjacent-element-difference) |
 | [3362-zero-array-transformation-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/3362-zero-array-transformation-iii) |
 | [3366-minimum-array-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/3366-minimum-array-sum) |
+| [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3404-count-special-subsequences](https://github.com/rhythm199/Leetcode-problems/tree/master/3404-count-special-subsequences) |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/rhythm199/Leetcode-problems/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/rhythm199/Leetcode-problems/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3404-count-special-subsequences](https://github.com/rhythm199/Leetcode-problems/tree/master/3404-count-special-subsequences) |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/rhythm199/Leetcode-problems/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/rhythm199/Leetcode-problems/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3362-zero-array-transformation-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/3362-zero-array-transformation-iii) |
+| [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/rhythm199/Leetcode-problems/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/3478-choose-k-elements-with-maximum-sum) |
@@ -1159,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/rhythm199/Leetcode-problems/tree/master/0149-max-points-on-a-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rhythm199/Leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
+| [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Breadth-First Search
 |  |
@@ -1304,12 +1308,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/rhythm199/Leetcode-problems/tree/master/0218-the-skyline-problem) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3161-block-placement-queries](https://github.com/rhythm199/Leetcode-problems/tree/master/3161-block-placement-queries) |
+| [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/rhythm199/Leetcode-problems/tree/master/0218-the-skyline-problem) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3161-block-placement-queries](https://github.com/rhythm199/Leetcode-problems/tree/master/3161-block-placement-queries) |
+| [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3479-fruits-into-baskets-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/3479-fruits-into-baskets-iii) |
 ## Sweep Line
 |  |
@@ -1364,6 +1370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/rhythm199/Leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3127-make-a-square-with-the-same-color](https://github.com/rhythm199/Leetcode-problems/tree/master/3127-make-a-square-with-the-same-color) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/rhythm199/Leetcode-problems/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
+| [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3404-count-special-subsequences](https://github.com/rhythm199/Leetcode-problems/tree/master/3404-count-special-subsequences) |
 | [3546-equal-sum-grid-partition-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3548-equal-sum-grid-partition-ii) |
