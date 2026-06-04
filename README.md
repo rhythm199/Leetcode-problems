@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/rhythm199/Leetcode-problems/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/rhythm199/Leetcode-problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rhythm199/Leetcode-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/rhythm199/Leetcode-problems/tree/master/3093-longest-common-suffix-queries) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2861-maximum-number-of-alloys](https://github.com/rhythm199/Leetcode-problems/tree/master/2861-maximum-number-of-alloys) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/rhythm199/Leetcode-problems/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/rhythm199/Leetcode-problems/tree/master/2968-apply-operations-to-maximize-frequency-score) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3143-maximum-points-inside-the-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3143-maximum-points-inside-the-square) |
 | [3161-block-placement-queries](https://github.com/rhythm199/Leetcode-problems/tree/master/3161-block-placement-queries) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/rhythm199/Leetcode-problems/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -1003,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/rhythm199/Leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/rhythm199/Leetcode-problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/rhythm199/Leetcode-problems/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/rhythm199/Leetcode-problems/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3356-zero-array-transformation-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3356-zero-array-transformation-ii) |
 | [3362-zero-array-transformation-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/3362-zero-array-transformation-iii) |
@@ -1320,6 +1323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rhythm199/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/rhythm199/Leetcode-problems/tree/master/0796-rotate-string) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1425,11 +1429,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/rhythm199/Leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [1044-longest-duplicate-substring](https://github.com/rhythm199/Leetcode-problems/tree/master/1044-longest-duplicate-substring) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/rhythm199/Leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [1044-longest-duplicate-substring](https://github.com/rhythm199/Leetcode-problems/tree/master/1044-longest-duplicate-substring) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Bitmask
 |  |
 | ------- |
