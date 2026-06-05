@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-next-greater-element-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/2454-next-greater-element-iv) |
 | [2463-minimum-total-distance-traveled](https://github.com/rhythm199/Leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/rhythm199/Leetcode-problems/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2540-minimum-common-value](https://github.com/rhythm199/Leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/rhythm199/Leetcode-problems/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -949,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/rhythm199/Leetcode-problems/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2451-odd-string-difference](https://github.com/rhythm199/Leetcode-problems/tree/master/2451-odd-string-difference) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/rhythm199/Leetcode-problems/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2540-minimum-common-value](https://github.com/rhythm199/Leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/rhythm199/Leetcode-problems/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2615-sum-of-distances](https://github.com/rhythm199/Leetcode-problems/tree/master/2615-sum-of-distances) |
@@ -1158,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/rhythm199/Leetcode-problems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/rhythm199/Leetcode-problems/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2833-furthest-point-from-origin](https://github.com/rhythm199/Leetcode-problems/tree/master/2833-furthest-point-from-origin) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/rhythm199/Leetcode-problems/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3335-total-characters-in-string-after-transformations-i) |
@@ -1196,6 +1199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/rhythm199/Leetcode-problems/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/rhythm199/Leetcode-problems/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2573-find-the-string-with-lcp](https://github.com/rhythm199/Leetcode-problems/tree/master/2573-find-the-string-with-lcp) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/rhythm199/Leetcode-problems/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
