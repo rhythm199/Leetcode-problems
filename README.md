@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/rhythm199/Leetcode-problems/tree/master/1202-smallest-string-with-swaps) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1598-crawler-log-folder](https://github.com/rhythm199/Leetcode-problems/tree/master/1598-crawler-log-folder) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/rhythm199/Leetcode-problems/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1871-jump-game-vii](https://github.com/rhythm199/Leetcode-problems/tree/master/1871-jump-game-vii) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rhythm199/Leetcode-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/rhythm199/Leetcode-problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0773-sliding-puzzle](https://github.com/rhythm199/Leetcode-problems/tree/master/0773-sliding-puzzle) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/rhythm199/Leetcode-problems/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/rhythm199/Leetcode-problems/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2212-maximum-points-in-an-archery-competition](https://github.com/rhythm199/Leetcode-problems/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [3799-word-squares-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3799-word-squares-ii) |
@@ -1432,6 +1434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/rhythm199/Leetcode-problems/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/rhythm199/Leetcode-problems/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2212-maximum-points-in-an-archery-competition](https://github.com/rhythm199/Leetcode-problems/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/rhythm199/Leetcode-problems/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/rhythm199/Leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
