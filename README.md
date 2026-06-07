@@ -1363,6 +1363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/rhythm199/Leetcode-problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1591-strange-printer-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/1591-strange-printer-ii) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
+| [1791-find-center-of-star-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/1791-find-center-of-star-graph) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/rhythm199/Leetcode-problems/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/rhythm199/Leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
