@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/rhythm199/Leetcode-problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0464-can-i-win](https://github.com/rhythm199/Leetcode-problems/tree/master/0464-can-i-win) |
 | [0474-ones-and-zeroes](https://github.com/rhythm199/Leetcode-problems/tree/master/0474-ones-and-zeroes) |
 | [0546-remove-boxes](https://github.com/rhythm199/Leetcode-problems/tree/master/0546-remove-boxes) |
 | [0664-strange-printer](https://github.com/rhythm199/Leetcode-problems/tree/master/0664-strange-printer) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/rhythm199/Leetcode-problems/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rhythm199/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0445-add-two-numbers-ii) |
+| [0464-can-i-win](https://github.com/rhythm199/Leetcode-problems/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/rhythm199/Leetcode-problems/tree/master/0477-total-hamming-distance) |
 | [0504-base-7](https://github.com/rhythm199/Leetcode-problems/tree/master/0504-base-7) |
 | [0528-random-pick-with-weight](https://github.com/rhythm199/Leetcode-problems/tree/master/0528-random-pick-with-weight) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/rhythm199/Leetcode-problems/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rhythm199/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/rhythm199/Leetcode-problems/tree/master/0461-hamming-distance) |
+| [0464-can-i-win](https://github.com/rhythm199/Leetcode-problems/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/rhythm199/Leetcode-problems/tree/master/0477-total-hamming-distance) |
 | [0756-pyramid-transition-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0805-split-array-with-same-average](https://github.com/rhythm199/Leetcode-problems/tree/master/0805-split-array-with-same-average) |
@@ -1362,6 +1365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/rhythm199/Leetcode-problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rhythm199/Leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0464-can-i-win](https://github.com/rhythm199/Leetcode-problems/tree/master/0464-can-i-win) |
 | [0546-remove-boxes](https://github.com/rhythm199/Leetcode-problems/tree/master/0546-remove-boxes) |
 | [0773-sliding-puzzle](https://github.com/rhythm199/Leetcode-problems/tree/master/0773-sliding-puzzle) |
 | [2312-selling-pieces-of-wood](https://github.com/rhythm199/Leetcode-problems/tree/master/2312-selling-pieces-of-wood) |
@@ -1515,6 +1519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/rhythm199/Leetcode-problems/tree/master/0464-can-i-win) |
 | [0805-split-array-with-same-average](https://github.com/rhythm199/Leetcode-problems/tree/master/0805-split-array-with-same-average) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rhythm199/Leetcode-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/rhythm199/Leetcode-problems/tree/master/3276-select-cells-in-grid-with-maximum-score) |
@@ -1535,6 +1540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/rhythm199/Leetcode-problems/tree/master/0292-nim-game) |
+| [0464-can-i-win](https://github.com/rhythm199/Leetcode-problems/tree/master/0464-can-i-win) |
 | [1686-stone-game-vi](https://github.com/rhythm199/Leetcode-problems/tree/master/1686-stone-game-vi) |
 ## Suffix Array
 |  |
