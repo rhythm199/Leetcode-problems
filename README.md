@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rhythm199/Leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/rhythm199/Leetcode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/rhythm199/Leetcode-problems/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2206-divide-array-into-equal-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2212-maximum-points-in-an-archery-competition](https://github.com/rhythm199/Leetcode-problems/tree/master/2212-maximum-points-in-an-archery-competition) |
@@ -957,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-maximum-genetic-difference-query](https://github.com/rhythm199/Leetcode-problems/tree/master/1938-maximum-genetic-difference-query) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rhythm199/Leetcode-problems/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/rhythm199/Leetcode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2206-divide-array-into-equal-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/rhythm199/Leetcode-problems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/rhythm199/Leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -1297,6 +1299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/rhythm199/Leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/rhythm199/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/rhythm199/Leetcode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/rhythm199/Leetcode-problems/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/rhythm199/Leetcode-problems/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/rhythm199/Leetcode-problems/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -1329,6 +1332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/rhythm199/Leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/rhythm199/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/rhythm199/Leetcode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/rhythm199/Leetcode-problems/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Queue
 |  |
