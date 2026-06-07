@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/rhythm199/Leetcode-problems/tree/master/3161-block-placement-queries) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/rhythm199/Leetcode-problems/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3225-maximum-score-from-grid-operations](https://github.com/rhythm199/Leetcode-problems/tree/master/3225-maximum-score-from-grid-operations) |
+| [3238-find-the-number-of-winning-players](https://github.com/rhythm199/Leetcode-problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/rhythm199/Leetcode-problems/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/rhythm199/Leetcode-problems/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -997,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-maximum-points-inside-the-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3143-maximum-points-inside-the-square) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rhythm199/Leetcode-problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/rhythm199/Leetcode-problems/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3238-find-the-number-of-winning-players](https://github.com/rhythm199/Leetcode-problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/rhythm199/Leetcode-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3335-total-characters-in-string-after-transformations-i) |
@@ -1198,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/rhythm199/Leetcode-problems/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2833-furthest-point-from-origin](https://github.com/rhythm199/Leetcode-problems/tree/master/2833-furthest-point-from-origin) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/rhythm199/Leetcode-problems/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3238-find-the-number-of-winning-players](https://github.com/rhythm199/Leetcode-problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3337-total-characters-in-string-after-transformations-ii) |
 ## Greedy
