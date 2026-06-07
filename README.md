@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/rhythm199/Leetcode-problems/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/rhythm199/Leetcode-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3355-zero-array-transformation-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3356-zero-array-transformation-ii) |
@@ -785,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3362-zero-array-transformation-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/3362-zero-array-transformation-iii) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/3478-choose-k-elements-with-maximum-sum) |
 ## Monotonic Stack
@@ -1116,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/rhythm199/Leetcode-problems/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -1388,6 +1391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-shortest-cycle-in-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2608-shortest-cycle-in-a-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rhythm199/Leetcode-problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Combinatorics
 |  |
@@ -1448,6 +1452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/rhythm199/Leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Bucket Sort
 |  |
 | ------- |
