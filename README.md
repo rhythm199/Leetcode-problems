@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-next-greater-element-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/2454-next-greater-element-iv) |
 | [2463-minimum-total-distance-traveled](https://github.com/rhythm199/Leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/rhythm199/Leetcode-problems/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2540-minimum-common-value](https://github.com/rhythm199/Leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2454-next-greater-element-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/2454-next-greater-element-iv) |
 | [2463-minimum-total-distance-traveled](https://github.com/rhythm199/Leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/rhythm199/Leetcode-problems/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rhythm199/Leetcode-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2454-next-greater-element-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/2454-next-greater-element-iv) |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/rhythm199/Leetcode-problems/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1218,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/rhythm199/Leetcode-problems/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/rhythm199/Leetcode-problems/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2573-find-the-string-with-lcp](https://github.com/rhythm199/Leetcode-problems/tree/master/2573-find-the-string-with-lcp) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/rhythm199/Leetcode-problems/tree/master/2589-minimum-time-to-complete-all-tasks) |
@@ -1365,6 +1369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/rhythm199/Leetcode-problems/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2360-longest-cycle-in-a-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/rhythm199/Leetcode-problems/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2608-shortest-cycle-in-a-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
