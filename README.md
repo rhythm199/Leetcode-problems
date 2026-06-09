@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/rhythm199/Leetcode-problems/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3225-maximum-score-from-grid-operations](https://github.com/rhythm199/Leetcode-problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3238-find-the-number-of-winning-players](https://github.com/rhythm199/Leetcode-problems/tree/master/3238-find-the-number-of-winning-players) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/rhythm199/Leetcode-problems/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/rhythm199/Leetcode-problems/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1037,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-longest-nice-subarray](https://github.com/rhythm199/Leetcode-problems/tree/master/2401-longest-nice-subarray) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/rhythm199/Leetcode-problems/tree/master/2968-apply-operations-to-maximize-frequency-score) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Two Pointers
