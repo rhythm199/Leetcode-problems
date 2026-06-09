@@ -323,7 +323,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-largest-plus-sign](https://github.com/rhythm199/Leetcode-problems/tree/master/0764-largest-plus-sign) |
 | [0769-max-chunks-to-make-sorted](https://github.com/rhythm199/Leetcode-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0773-sliding-puzzle](https://github.com/rhythm199/Leetcode-problems/tree/master/0773-sliding-puzzle) |
-| [0778-swim-in-rising-water](https://github.com/rhythm199/Leetcode-problems/tree/master/0778-swim-in-rising-water) |
 | [0789-escape-the-ghosts](https://github.com/rhythm199/Leetcode-problems/tree/master/0789-escape-the-ghosts) |
 | [0805-split-array-with-same-average](https://github.com/rhythm199/Leetcode-problems/tree/master/0805-split-array-with-same-average) |
 | [0811-subdomain-visit-count](https://github.com/rhythm199/Leetcode-problems/tree/master/0811-subdomain-visit-count) |
@@ -706,7 +705,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/rhythm199/Leetcode-problems/tree/master/0456-132-pattern) |
 | [0528-random-pick-with-weight](https://github.com/rhythm199/Leetcode-problems/tree/master/0528-random-pick-with-weight) |
 | [0713-subarray-product-less-than-k](https://github.com/rhythm199/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
-| [0778-swim-in-rising-water](https://github.com/rhythm199/Leetcode-problems/tree/master/0778-swim-in-rising-water) |
 | [1044-longest-duplicate-substring](https://github.com/rhythm199/Leetcode-problems/tree/master/1044-longest-duplicate-substring) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1488-avoid-flood-in-the-city](https://github.com/rhythm199/Leetcode-problems/tree/master/1488-avoid-flood-in-the-city) |
@@ -775,7 +773,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/rhythm199/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/rhythm199/Leetcode-problems/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/rhythm199/Leetcode-problems/tree/master/0692-top-k-frequent-words) |
-| [0778-swim-in-rising-water](https://github.com/rhythm199/Leetcode-problems/tree/master/0778-swim-in-rising-water) |
 | [1488-avoid-flood-in-the-city](https://github.com/rhythm199/Leetcode-problems/tree/master/1488-avoid-flood-in-the-city) |
 | [1686-stone-game-vi](https://github.com/rhythm199/Leetcode-problems/tree/master/1686-stone-game-vi) |
 | [1696-jump-game-vi](https://github.com/rhythm199/Leetcode-problems/tree/master/1696-jump-game-vi) |
@@ -825,7 +822,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/rhythm199/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/rhythm199/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0753-cracking-the-safe](https://github.com/rhythm199/Leetcode-problems/tree/master/0753-cracking-the-safe) |
-| [0778-swim-in-rising-water](https://github.com/rhythm199/Leetcode-problems/tree/master/0778-swim-in-rising-water) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/rhythm199/Leetcode-problems/tree/master/1202-smallest-string-with-swaps) |
 | [1306-jump-game-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/1306-jump-game-iii) |
@@ -841,7 +837,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rhythm199/Leetcode-problems/tree/master/0200-number-of-islands) |
-| [0778-swim-in-rising-water](https://github.com/rhythm199/Leetcode-problems/tree/master/0778-swim-in-rising-water) |
 | [0990-satisfiability-of-equality-equations](https://github.com/rhythm199/Leetcode-problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1202-smallest-string-with-swaps](https://github.com/rhythm199/Leetcode-problems/tree/master/1202-smallest-string-with-swaps) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1102,7 +1097,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0741-cherry-pickup](https://github.com/rhythm199/Leetcode-problems/tree/master/0741-cherry-pickup) |
 | [0773-sliding-puzzle](https://github.com/rhythm199/Leetcode-problems/tree/master/0773-sliding-puzzle) |
-| [0778-swim-in-rising-water](https://github.com/rhythm199/Leetcode-problems/tree/master/0778-swim-in-rising-water) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/rhythm199/Leetcode-problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1289,7 +1283,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/rhythm199/Leetcode-problems/tree/master/0279-perfect-squares) |
 | [0752-open-the-lock](https://github.com/rhythm199/Leetcode-problems/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/rhythm199/Leetcode-problems/tree/master/0773-sliding-puzzle) |
-| [0778-swim-in-rising-water](https://github.com/rhythm199/Leetcode-problems/tree/master/0778-swim-in-rising-water) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/rhythm199/Leetcode-problems/tree/master/1202-smallest-string-with-swaps) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/rhythm199/Leetcode-problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
