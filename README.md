@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/rhythm199/Leetcode-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0990-satisfiability-of-equality-equations](https://github.com/rhythm199/Leetcode-problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rhythm199/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/rhythm199/Leetcode-problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/rhythm199/Leetcode-problems/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1051-height-checker](https://github.com/rhythm199/Leetcode-problems/tree/master/1051-height-checker) |
 | [1109-corporate-flight-bookings](https://github.com/rhythm199/Leetcode-problems/tree/master/1109-corporate-flight-bookings) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0805-split-array-with-same-average](https://github.com/rhythm199/Leetcode-problems/tree/master/0805-split-array-with-same-average) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/rhythm199/Leetcode-problems/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/rhythm199/Leetcode-problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rhythm199/Leetcode-problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/rhythm199/Leetcode-problems/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1720-decode-xored-array](https://github.com/rhythm199/Leetcode-problems/tree/master/1720-decode-xored-array) |
@@ -1043,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rhythm199/Leetcode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/rhythm199/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rhythm199/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/rhythm199/Leetcode-problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1044-longest-duplicate-substring](https://github.com/rhythm199/Leetcode-problems/tree/master/1044-longest-duplicate-substring) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rhythm199/Leetcode-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -1161,6 +1164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/rhythm199/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/rhythm199/Leetcode-problems/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rhythm199/Leetcode-problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/rhythm199/Leetcode-problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1109-corporate-flight-bookings](https://github.com/rhythm199/Leetcode-problems/tree/master/1109-corporate-flight-bookings) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rhythm199/Leetcode-problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/rhythm199/Leetcode-problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -1396,6 +1400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rhythm199/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/rhythm199/Leetcode-problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1696-jump-game-vi](https://github.com/rhythm199/Leetcode-problems/tree/master/1696-jump-game-vi) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rhythm199/Leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Memoization
