@@ -839,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rhythm199/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0753-cracking-the-safe](https://github.com/rhythm199/Leetcode-problems/tree/master/0753-cracking-the-safe) |
 | [0778-swim-in-rising-water](https://github.com/rhythm199/Leetcode-problems/tree/master/0778-swim-in-rising-water) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/rhythm199/Leetcode-problems/tree/master/1202-smallest-string-with-swaps) |
 | [1306-jump-game-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/1306-jump-game-iii) |
@@ -980,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/rhythm199/Leetcode-problems/tree/master/0811-subdomain-visit-count) |
 | [0833-find-and-replace-in-string](https://github.com/rhythm199/Leetcode-problems/tree/master/0833-find-and-replace-in-string) |
 | [0859-buddy-strings](https://github.com/rhythm199/Leetcode-problems/tree/master/0859-buddy-strings) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0939-minimum-area-rectangle](https://github.com/rhythm199/Leetcode-problems/tree/master/0939-minimum-area-rectangle) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rhythm199/Leetcode-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1314,6 +1316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/rhythm199/Leetcode-problems/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/rhythm199/Leetcode-problems/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/rhythm199/Leetcode-problems/tree/master/0778-swim-in-rising-water) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/rhythm199/Leetcode-problems/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/rhythm199/Leetcode-problems/tree/master/1202-smallest-string-with-swaps) |
@@ -1359,6 +1362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/rhythm199/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/rhythm199/Leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/rhythm199/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/rhythm199/Leetcode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -1393,6 +1397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/rhythm199/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/rhythm199/Leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/rhythm199/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/rhythm199/Leetcode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/rhythm199/Leetcode-problems/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
