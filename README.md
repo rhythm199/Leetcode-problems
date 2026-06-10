@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/rhythm199/Leetcode-problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0447-number-of-boomerangs](https://github.com/rhythm199/Leetcode-problems/tree/master/0447-number-of-boomerangs) |
 | [0454-4sum-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0454-4sum-ii) |
 | [0456-132-pattern](https://github.com/rhythm199/Leetcode-problems/tree/master/0456-132-pattern) |
 | [0474-ones-and-zeroes](https://github.com/rhythm199/Leetcode-problems/tree/master/0474-ones-and-zeroes) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/rhythm199/Leetcode-problems/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rhythm199/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0445-add-two-numbers-ii) |
+| [0447-number-of-boomerangs](https://github.com/rhythm199/Leetcode-problems/tree/master/0447-number-of-boomerangs) |
 | [0464-can-i-win](https://github.com/rhythm199/Leetcode-problems/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/rhythm199/Leetcode-problems/tree/master/0477-total-hamming-distance) |
 | [0504-base-7](https://github.com/rhythm199/Leetcode-problems/tree/master/0504-base-7) |
@@ -963,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/rhythm199/Leetcode-problems/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/rhythm199/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rhythm199/Leetcode-problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0447-number-of-boomerangs](https://github.com/rhythm199/Leetcode-problems/tree/master/0447-number-of-boomerangs) |
 | [0451-sort-characters-by-frequency](https://github.com/rhythm199/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0454-4sum-ii) |
 | [0554-brick-wall](https://github.com/rhythm199/Leetcode-problems/tree/master/0554-brick-wall) |
