@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-find-and-replace-in-string](https://github.com/rhythm199/Leetcode-problems/tree/master/0833-find-and-replace-in-string) |
 | [0859-buddy-strings](https://github.com/rhythm199/Leetcode-problems/tree/master/0859-buddy-strings) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/rhythm199/Leetcode-problems/tree/master/0903-valid-permutations-for-di-sequence) |
+| [0966-vowel-spellchecker](https://github.com/rhythm199/Leetcode-problems/tree/master/0966-vowel-spellchecker) |
 | [0990-satisfiability-of-equality-equations](https://github.com/rhythm199/Leetcode-problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1023-camelcase-matching](https://github.com/rhythm199/Leetcode-problems/tree/master/1023-camelcase-matching) |
 | [1044-longest-duplicate-substring](https://github.com/rhythm199/Leetcode-problems/tree/master/1044-longest-duplicate-substring) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/rhythm199/Leetcode-problems/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0881-boats-to-save-people](https://github.com/rhythm199/Leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0939-minimum-area-rectangle](https://github.com/rhythm199/Leetcode-problems/tree/master/0939-minimum-area-rectangle) |
+| [0966-vowel-spellchecker](https://github.com/rhythm199/Leetcode-problems/tree/master/0966-vowel-spellchecker) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rhythm199/Leetcode-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0990-satisfiability-of-equality-equations](https://github.com/rhythm199/Leetcode-problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rhythm199/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
@@ -1001,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/rhythm199/Leetcode-problems/tree/master/0859-buddy-strings) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0939-minimum-area-rectangle](https://github.com/rhythm199/Leetcode-problems/tree/master/0939-minimum-area-rectangle) |
+| [0966-vowel-spellchecker](https://github.com/rhythm199/Leetcode-problems/tree/master/0966-vowel-spellchecker) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rhythm199/Leetcode-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rhythm199/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
