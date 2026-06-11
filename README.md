@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/rhythm199/Leetcode-problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
+| [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/rhythm199/Leetcode-problems/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/rhythm199/Leetcode-problems/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -861,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/rhythm199/Leetcode-problems/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2360-longest-cycle-in-a-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/rhythm199/Leetcode-problems/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/rhythm199/Leetcode-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Union-Find
@@ -1386,6 +1388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/rhythm199/Leetcode-problems/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/rhythm199/Leetcode-problems/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2603-collect-coins-in-a-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/2603-collect-coins-in-a-tree) |
+| [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/rhythm199/Leetcode-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
