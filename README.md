@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-star-sum-of-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/rhythm199/Leetcode-problems/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2540-minimum-common-value](https://github.com/rhythm199/Leetcode-problems/tree/master/2540-minimum-common-value) |
+| [2541-minimum-operations-to-make-array-equal-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/rhythm199/Leetcode-problems/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2562-find-the-array-concatenation-value](https://github.com/rhythm199/Leetcode-problems/tree/master/2562-find-the-array-concatenation-value) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1739-building-boxes](https://github.com/rhythm199/Leetcode-problems/tree/master/1739-building-boxes) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rhythm199/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2541-minimum-operations-to-make-array-equal-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/rhythm199/Leetcode-problems/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/rhythm199/Leetcode-problems/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/rhythm199/Leetcode-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1295,6 +1297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/rhythm199/Leetcode-problems/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
+| [2541-minimum-operations-to-make-array-equal-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2573-find-the-string-with-lcp](https://github.com/rhythm199/Leetcode-problems/tree/master/2573-find-the-string-with-lcp) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/rhythm199/Leetcode-problems/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
