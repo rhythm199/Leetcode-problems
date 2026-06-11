@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/rhythm199/Leetcode-problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/rhythm199/Leetcode-problems/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/rhythm199/Leetcode-problems/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/rhythm199/Leetcode-problems/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rhythm199/Leetcode-problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/rhythm199/Leetcode-problems/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/rhythm199/Leetcode-problems/tree/master/2968-apply-operations-to-maximize-frequency-score) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/rhythm199/Leetcode-problems/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3143-maximum-points-inside-the-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3143-maximum-points-inside-the-square) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/rhythm199/Leetcode-problems/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -811,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-next-greater-element-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/2454-next-greater-element-iv) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/rhythm199/Leetcode-problems/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/rhythm199/Leetcode-problems/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -863,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2360-longest-cycle-in-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2360-longest-cycle-in-a-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/rhythm199/Leetcode-problems/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/rhythm199/Leetcode-problems/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/rhythm199/Leetcode-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Union-Find
@@ -1389,6 +1393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/rhythm199/Leetcode-problems/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2603-collect-coins-in-a-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/2603-collect-coins-in-a-tree) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/rhythm199/Leetcode-problems/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/rhythm199/Leetcode-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
