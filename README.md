@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/rhythm199/Leetcode-problems/tree/master/1154-day-of-the-year) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rhythm199/Leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1202-smallest-string-with-swaps](https://github.com/rhythm199/Leetcode-problems/tree/master/1202-smallest-string-with-swaps) |
+| [1307-verbal-arithmetic-puzzle](https://github.com/rhythm199/Leetcode-problems/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1598-crawler-log-folder](https://github.com/rhythm199/Leetcode-problems/tree/master/1598-crawler-log-folder) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/rhythm199/Leetcode-problems/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/rhythm199/Leetcode-problems/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0773-sliding-puzzle](https://github.com/rhythm199/Leetcode-problems/tree/master/0773-sliding-puzzle) |
+| [1307-verbal-arithmetic-puzzle](https://github.com/rhythm199/Leetcode-problems/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/rhythm199/Leetcode-problems/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/rhythm199/Leetcode-problems/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2065-maximum-path-quality-of-a-graph) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/rhythm199/Leetcode-problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/rhythm199/Leetcode-problems/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1306-jump-game-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/1306-jump-game-iii) |
+| [1307-verbal-arithmetic-puzzle](https://github.com/rhythm199/Leetcode-problems/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1340-jump-game-v](https://github.com/rhythm199/Leetcode-problems/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1363-largest-multiple-of-three](https://github.com/rhythm199/Leetcode-problems/tree/master/1363-largest-multiple-of-three) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-minimum-area-rectangle](https://github.com/rhythm199/Leetcode-problems/tree/master/0939-minimum-area-rectangle) |
 | [1154-day-of-the-year](https://github.com/rhythm199/Leetcode-problems/tree/master/1154-day-of-the-year) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rhythm199/Leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
+| [1307-verbal-arithmetic-puzzle](https://github.com/rhythm199/Leetcode-problems/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/rhythm199/Leetcode-problems/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1363-largest-multiple-of-three](https://github.com/rhythm199/Leetcode-problems/tree/master/1363-largest-multiple-of-three) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rhythm199/Leetcode-problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
