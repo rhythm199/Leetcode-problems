@@ -921,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/rhythm199/Leetcode-problems/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/rhythm199/Leetcode-problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/rhythm199/Leetcode-problems/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/rhythm199/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0445-add-two-numbers-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rhythm199/Leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
@@ -957,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/rhythm199/Leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/rhythm199/Leetcode-problems/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/rhythm199/Leetcode-problems/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/rhythm199/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rhythm199/Leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/rhythm199/Leetcode-problems/tree/master/0273-integer-to-english-words) |
 ## Hash Table
