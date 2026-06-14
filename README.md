@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rhythm199/Leetcode-problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3161-block-placement-queries](https://github.com/rhythm199/Leetcode-problems/tree/master/3161-block-placement-queries) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/rhythm199/Leetcode-problems/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/rhythm199/Leetcode-problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3225-maximum-score-from-grid-operations](https://github.com/rhythm199/Leetcode-problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3238-find-the-number-of-winning-players](https://github.com/rhythm199/Leetcode-problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
@@ -932,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rhythm199/Leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/rhythm199/Leetcode-problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/rhythm199/Leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/rhythm199/Leetcode-problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1060,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-maximum-points-inside-the-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3143-maximum-points-inside-the-square) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rhythm199/Leetcode-problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/rhythm199/Leetcode-problems/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/rhythm199/Leetcode-problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3238-find-the-number-of-winning-players](https://github.com/rhythm199/Leetcode-problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/rhythm199/Leetcode-problems/tree/master/3331-find-subtree-sizes-after-changes) |
