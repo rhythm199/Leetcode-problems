@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rhythm199/Leetcode-problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0692-top-k-frequent-words](https://github.com/rhythm199/Leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/rhythm199/Leetcode-problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/rhythm199/Leetcode-problems/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/rhythm199/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/rhythm199/Leetcode-problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0741-cherry-pickup](https://github.com/rhythm199/Leetcode-problems/tree/master/0741-cherry-pickup) |
@@ -945,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/rhythm199/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/rhythm199/Leetcode-problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/rhythm199/Leetcode-problems/tree/master/0706-design-hashmap) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/rhythm199/Leetcode-problems/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rhythm199/Leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rhythm199/Leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1029,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/rhythm199/Leetcode-problems/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/rhythm199/Leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/rhythm199/Leetcode-problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/rhythm199/Leetcode-problems/tree/master/0706-design-hashmap) |
 | [0752-open-the-lock](https://github.com/rhythm199/Leetcode-problems/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0805-split-array-with-same-average](https://github.com/rhythm199/Leetcode-problems/tree/master/0805-split-array-with-same-average) |
@@ -1619,6 +1622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/rhythm199/Leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/rhythm199/Leetcode-problems/tree/master/0284-peeking-iterator) |
 | [0705-design-hashset](https://github.com/rhythm199/Leetcode-problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/rhythm199/Leetcode-problems/tree/master/0706-design-hashmap) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1645,6 +1649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/rhythm199/Leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0705-design-hashset](https://github.com/rhythm199/Leetcode-problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/rhythm199/Leetcode-problems/tree/master/0706-design-hashmap) |
 | [1044-longest-duplicate-substring](https://github.com/rhythm199/Leetcode-problems/tree/master/1044-longest-duplicate-substring) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Bitmask
