@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/rhythm199/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/rhythm199/Leetcode-problems/tree/master/0474-ones-and-zeroes) |
 | [0504-base-7](https://github.com/rhythm199/Leetcode-problems/tree/master/0504-base-7) |
+| [0516-longest-palindromic-subsequence](https://github.com/rhythm199/Leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/rhythm199/Leetcode-problems/tree/master/0520-detect-capital) |
 | [0647-palindromic-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/rhythm199/Leetcode-problems/tree/master/0664-strange-printer) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/rhythm199/Leetcode-problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0464-can-i-win](https://github.com/rhythm199/Leetcode-problems/tree/master/0464-can-i-win) |
 | [0474-ones-and-zeroes](https://github.com/rhythm199/Leetcode-problems/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/rhythm199/Leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0546-remove-boxes](https://github.com/rhythm199/Leetcode-problems/tree/master/0546-remove-boxes) |
 | [0647-palindromic-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/rhythm199/Leetcode-problems/tree/master/0664-strange-printer) |
