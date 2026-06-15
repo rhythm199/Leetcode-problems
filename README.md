@@ -947,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/rhythm199/Leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/rhythm199/Leetcode-problems/tree/master/0706-design-hashmap) |
+| [1206-design-skiplist](https://github.com/rhythm199/Leetcode-problems/tree/master/1206-design-skiplist) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/rhythm199/Leetcode-problems/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rhythm199/Leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rhythm199/Leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1623,6 +1624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/rhythm199/Leetcode-problems/tree/master/0284-peeking-iterator) |
 | [0705-design-hashset](https://github.com/rhythm199/Leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/rhythm199/Leetcode-problems/tree/master/0706-design-hashmap) |
+| [1206-design-skiplist](https://github.com/rhythm199/Leetcode-problems/tree/master/1206-design-skiplist) |
 ## Doubly-Linked List
 |  |
 | ------- |
