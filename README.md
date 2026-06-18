@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-fruits-into-baskets-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/3479-fruits-into-baskets-iii) |
 | [3488-closest-equal-element-queries](https://github.com/rhythm199/Leetcode-problems/tree/master/3488-closest-equal-element-queries) |
 | [3489-zero-array-transformation-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/3489-zero-array-transformation-iv) |
+| [3525-find-x-value-of-array-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/rhythm199/Leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3404-count-special-subsequences](https://github.com/rhythm199/Leetcode-problems/tree/master/3404-count-special-subsequences) |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/rhythm199/Leetcode-problems/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3525-find-x-value-of-array-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/rhythm199/Leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/rhythm199/Leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -1586,6 +1588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/rhythm199/Leetcode-problems/tree/master/3161-block-placement-queries) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3479-fruits-into-baskets-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/3479-fruits-into-baskets-iii) |
+| [3525-find-x-value-of-array-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sweep Line
 |  |
