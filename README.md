@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1696-jump-game-vi](https://github.com/rhythm199/Leetcode-problems/tree/master/1696-jump-game-vi) |
 | [1871-jump-game-vii](https://github.com/rhythm199/Leetcode-problems/tree/master/1871-jump-game-vii) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/rhythm199/Leetcode-problems/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/rhythm199/Leetcode-problems/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rhythm199/Leetcode-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/rhythm199/Leetcode-problems/tree/master/1686-stone-game-vi) |
 | [1739-building-boxes](https://github.com/rhythm199/Leetcode-problems/tree/master/1739-building-boxes) |
 | [1840-maximum-building-height](https://github.com/rhythm199/Leetcode-problems/tree/master/1840-maximum-building-height) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/rhythm199/Leetcode-problems/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rhythm199/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2396-strictly-palindromic-number](https://github.com/rhythm199/Leetcode-problems/tree/master/2396-strictly-palindromic-number) |
