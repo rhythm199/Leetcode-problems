@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0773-sliding-puzzle](https://github.com/rhythm199/Leetcode-problems/tree/master/0773-sliding-puzzle) |
 | [0788-rotated-digits](https://github.com/rhythm199/Leetcode-problems/tree/master/0788-rotated-digits) |
 | [0805-split-array-with-same-average](https://github.com/rhythm199/Leetcode-problems/tree/master/0805-split-array-with-same-average) |
+| [0887-super-egg-drop](https://github.com/rhythm199/Leetcode-problems/tree/master/0887-super-egg-drop) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/rhythm199/Leetcode-problems/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1340-jump-game-v](https://github.com/rhythm199/Leetcode-problems/tree/master/1340-jump-game-v) |
 | [1363-largest-multiple-of-three](https://github.com/rhythm199/Leetcode-problems/tree/master/1363-largest-multiple-of-three) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/rhythm199/Leetcode-problems/tree/master/0788-rotated-digits) |
 | [0789-escape-the-ghosts](https://github.com/rhythm199/Leetcode-problems/tree/master/0789-escape-the-ghosts) |
 | [0805-split-array-with-same-average](https://github.com/rhythm199/Leetcode-problems/tree/master/0805-split-array-with-same-average) |
+| [0887-super-egg-drop](https://github.com/rhythm199/Leetcode-problems/tree/master/0887-super-egg-drop) |
 | [0939-minimum-area-rectangle](https://github.com/rhythm199/Leetcode-problems/tree/master/0939-minimum-area-rectangle) |
 | [1154-day-of-the-year](https://github.com/rhythm199/Leetcode-problems/tree/master/1154-day-of-the-year) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rhythm199/Leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
@@ -763,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/rhythm199/Leetcode-problems/tree/master/0528-random-pick-with-weight) |
 | [0713-subarray-product-less-than-k](https://github.com/rhythm199/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0778-swim-in-rising-water](https://github.com/rhythm199/Leetcode-problems/tree/master/0778-swim-in-rising-water) |
+| [0887-super-egg-drop](https://github.com/rhythm199/Leetcode-problems/tree/master/0887-super-egg-drop) |
 | [1044-longest-duplicate-substring](https://github.com/rhythm199/Leetcode-problems/tree/master/1044-longest-duplicate-substring) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1488-avoid-flood-in-the-city](https://github.com/rhythm199/Leetcode-problems/tree/master/1488-avoid-flood-in-the-city) |
