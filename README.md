@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/rhythm199/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/rhythm199/Leetcode-problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/rhythm199/Leetcode-problems/tree/master/1007-minimum-domino-rotations-for-equal-row) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/rhythm199/Leetcode-problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1023-camelcase-matching](https://github.com/rhythm199/Leetcode-problems/tree/master/1023-camelcase-matching) |
 | [1051-height-checker](https://github.com/rhythm199/Leetcode-problems/tree/master/1051-height-checker) |
 | [1109-corporate-flight-bookings](https://github.com/rhythm199/Leetcode-problems/tree/master/1109-corporate-flight-bookings) |
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/rhythm199/Leetcode-problems/tree/master/0805-split-array-with-same-average) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/rhythm199/Leetcode-problems/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/rhythm199/Leetcode-problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/rhythm199/Leetcode-problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rhythm199/Leetcode-problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/rhythm199/Leetcode-problems/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1720-decode-xored-array](https://github.com/rhythm199/Leetcode-problems/tree/master/1720-decode-xored-array) |
