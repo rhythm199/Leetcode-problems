@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-number-of-orders-in-the-backlog](https://github.com/rhythm199/Leetcode-problems/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1818-minimum-absolute-sum-difference](https://github.com/rhythm199/Leetcode-problems/tree/master/1818-minimum-absolute-sum-difference) |
 | [1829-maximum-xor-for-each-query](https://github.com/rhythm199/Leetcode-problems/tree/master/1829-maximum-xor-for-each-query) |
+| [1833-maximum-ice-cream-bars](https://github.com/rhythm199/Leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rhythm199/Leetcode-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/rhythm199/Leetcode-problems/tree/master/1840-maximum-building-height) |
 | [1861-rotating-the-box](https://github.com/rhythm199/Leetcode-problems/tree/master/1861-rotating-the-box) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rhythm199/Leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1686-stone-game-vi](https://github.com/rhythm199/Leetcode-problems/tree/master/1686-stone-game-vi) |
 | [1818-minimum-absolute-sum-difference](https://github.com/rhythm199/Leetcode-problems/tree/master/1818-minimum-absolute-sum-difference) |
+| [1833-maximum-ice-cream-bars](https://github.com/rhythm199/Leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rhythm199/Leetcode-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/rhythm199/Leetcode-problems/tree/master/1840-maximum-building-height) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rhythm199/Leetcode-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -1366,6 +1368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rhythm199/Leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1686-stone-game-vi](https://github.com/rhythm199/Leetcode-problems/tree/master/1686-stone-game-vi) |
 | [1739-building-boxes](https://github.com/rhythm199/Leetcode-problems/tree/master/1739-building-boxes) |
+| [1833-maximum-ice-cream-bars](https://github.com/rhythm199/Leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rhythm199/Leetcode-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1936-add-minimum-number-of-rungs](https://github.com/rhythm199/Leetcode-problems/tree/master/1936-add-minimum-number-of-rungs) |
 | [2126-destroying-asteroids](https://github.com/rhythm199/Leetcode-problems/tree/master/2126-destroying-asteroids) |
@@ -1675,6 +1678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/rhythm199/Leetcode-problems/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/rhythm199/Leetcode-problems/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/rhythm199/Leetcode-problems/tree/master/1051-height-checker) |
+| [1833-maximum-ice-cream-bars](https://github.com/rhythm199/Leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 ## Radix Sort
 |  |
 | ------- |
