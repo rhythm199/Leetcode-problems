@@ -634,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/rhythm199/Leetcode-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3525-find-x-value-of-array-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/rhythm199/Leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3547-maximum-sum-of-edge-values-in-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/3547-maximum-sum-of-edge-values-in-a-graph) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/rhythm199/Leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3663-find-the-least-frequent-digit](https://github.com/rhythm199/Leetcode-problems/tree/master/3663-find-the-least-frequent-digit) |
@@ -1399,6 +1400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3282-reach-end-of-array-with-max-score](https://github.com/rhythm199/Leetcode-problems/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/rhythm199/Leetcode-problems/tree/master/3357-minimize-the-maximum-adjacent-element-difference) |
 | [3362-zero-array-transformation-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/3362-zero-array-transformation-iii) |
+| [3547-maximum-sum-of-edge-values-in-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/3547-maximum-sum-of-edge-values-in-a-graph) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3689-maximum-total-subarray-value-i) |
@@ -1562,6 +1564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3547-maximum-sum-of-edge-values-in-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/3547-maximum-sum-of-edge-values-in-a-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rhythm199/Leetcode-problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Combinatorics
 |  |
