@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/rhythm199/Leetcode-problems/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2573-find-the-string-with-lcp](https://github.com/rhythm199/Leetcode-problems/tree/master/2573-find-the-string-with-lcp) |
+| [2663-lexicographically-smallest-beautiful-string](https://github.com/rhythm199/Leetcode-problems/tree/master/2663-lexicographically-smallest-beautiful-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/rhythm199/Leetcode-problems/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/rhythm199/Leetcode-problems/tree/master/2833-furthest-point-from-origin) |
@@ -1399,6 +1400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/rhythm199/Leetcode-problems/tree/master/2573-find-the-string-with-lcp) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/rhythm199/Leetcode-problems/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2663-lexicographically-smallest-beautiful-string](https://github.com/rhythm199/Leetcode-problems/tree/master/2663-lexicographically-smallest-beautiful-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/rhythm199/Leetcode-problems/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/rhythm199/Leetcode-problems/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2895-minimum-processing-time](https://github.com/rhythm199/Leetcode-problems/tree/master/2895-minimum-processing-time) |
