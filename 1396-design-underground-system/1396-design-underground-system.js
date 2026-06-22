@@ -1,0 +1,1 @@
+class UndergroundSystem{constructor(){this.in=new Map,this.avg=new Map}checkIn(t,e,s){this.in.set(t,[e,s])}#t=(t,e)=>`${t},${e}`;checkOut(t,e,s){const[i,g]=this.in.get(t),n=this.#t(i,e),[h=0,c=0]=this.avg.get(n)??[];this.avg.set(n,[h+s-g,c+1]),this.in.delete(t)}getAverageTime(t,e){const[s,i]=this.avg.get(this.#t(t,e));return s/i}}
