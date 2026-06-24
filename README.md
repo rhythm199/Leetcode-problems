@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3489-zero-array-transformation-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/3489-zero-array-transformation-iv) |
 | [3640-trionic-array-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3640-trionic-array-ii) |
 | [3660-jump-game-ix](https://github.com/rhythm199/Leetcode-problems/tree/master/3660-jump-game-ix) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/rhythm199/Leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3663-find-the-least-frequent-digit](https://github.com/rhythm199/Leetcode-problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3677-count-binary-palindromic-numbers](https://github.com/rhythm199/Leetcode-problems/tree/master/3677-count-binary-palindromic-numbers) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
