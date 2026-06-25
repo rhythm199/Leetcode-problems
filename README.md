@@ -559,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/rhythm199/Leetcode-problems/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
@@ -1022,11 +1023,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rhythm199/Leetcode-problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rhythm199/Leetcode-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rhythm199/Leetcode-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rhythm199/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/rhythm199/Leetcode-problems/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -1153,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/rhythm199/Leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3663-find-the-least-frequent-digit](https://github.com/rhythm199/Leetcode-problems/tree/master/3663-find-the-least-frequent-digit) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sliding Window
 |  |
@@ -1322,6 +1326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3362-zero-array-transformation-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/3362-zero-array-transformation-iii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
 |  |
 | ------- |
@@ -1372,6 +1377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3337-total-characters-in-string-after-transformations-ii) |
 | [3663-find-the-least-frequent-digit](https://github.com/rhythm199/Leetcode-problems/tree/master/3663-find-the-least-frequent-digit) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -1627,6 +1633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-fruits-into-baskets-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/3479-fruits-into-baskets-iii) |
 | [3525-find-x-value-of-array-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sweep Line
 |  |
 | ------- |
