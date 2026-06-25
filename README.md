@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rhythm199/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rhythm199/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2312-selling-pieces-of-wood](https://github.com/rhythm199/Leetcode-problems/tree/master/2312-selling-pieces-of-wood) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/rhythm199/Leetcode-problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/rhythm199/Leetcode-problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/rhythm199/Leetcode-problems/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rhythm199/Leetcode-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/rhythm199/Leetcode-problems/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/2395-find-subarrays-with-equal-sum) |
