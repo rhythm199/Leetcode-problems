@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/rhythm199/Leetcode-problems/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1306-jump-game-iii](https://github.com/rhythm199/Leetcode-problems/tree/master/1306-jump-game-iii) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/rhythm199/Leetcode-problems/tree/master/1307-verbal-arithmetic-puzzle) |
+| [1330-reverse-subarray-to-maximize-array-value](https://github.com/rhythm199/Leetcode-problems/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1340-jump-game-v](https://github.com/rhythm199/Leetcode-problems/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1363-largest-multiple-of-three](https://github.com/rhythm199/Leetcode-problems/tree/master/1363-largest-multiple-of-three) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/rhythm199/Leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/rhythm199/Leetcode-problems/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/rhythm199/Leetcode-problems/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1330-reverse-subarray-to-maximize-array-value](https://github.com/rhythm199/Leetcode-problems/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rhythm199/Leetcode-problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1363-largest-multiple-of-three](https://github.com/rhythm199/Leetcode-problems/tree/master/1363-largest-multiple-of-three) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rhythm199/Leetcode-problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -1395,6 +1397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/rhythm199/Leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/rhythm199/Leetcode-problems/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/rhythm199/Leetcode-problems/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1330-reverse-subarray-to-maximize-array-value](https://github.com/rhythm199/Leetcode-problems/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1363-largest-multiple-of-three](https://github.com/rhythm199/Leetcode-problems/tree/master/1363-largest-multiple-of-three) |
 | [1488-avoid-flood-in-the-city](https://github.com/rhythm199/Leetcode-problems/tree/master/1488-avoid-flood-in-the-city) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
