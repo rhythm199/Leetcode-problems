@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/rhythm199/Leetcode-problems/tree/master/0520-detect-capital) |
 | [0647-palindromic-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/rhythm199/Leetcode-problems/tree/master/0664-strange-printer) |
+| [0676-implement-magic-dictionary](https://github.com/rhythm199/Leetcode-problems/tree/master/0676-implement-magic-dictionary) |
 | [0686-repeated-string-match](https://github.com/rhythm199/Leetcode-problems/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/rhythm199/Leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/0696-count-binary-substrings) |
@@ -931,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/rhythm199/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/rhythm199/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0310-minimum-height-trees](https://github.com/rhythm199/Leetcode-problems/tree/master/0310-minimum-height-trees) |
+| [0676-implement-magic-dictionary](https://github.com/rhythm199/Leetcode-problems/tree/master/0676-implement-magic-dictionary) |
 | [0753-cracking-the-safe](https://github.com/rhythm199/Leetcode-problems/tree/master/0753-cracking-the-safe) |
 | [0778-swim-in-rising-water](https://github.com/rhythm199/Leetcode-problems/tree/master/0778-swim-in-rising-water) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rhythm199/Leetcode-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -970,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/rhythm199/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/rhythm199/Leetcode-problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/0140-word-break-ii) |
+| [0676-implement-magic-dictionary](https://github.com/rhythm199/Leetcode-problems/tree/master/0676-implement-magic-dictionary) |
 | [0692-top-k-frequent-words](https://github.com/rhythm199/Leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [1023-camelcase-matching](https://github.com/rhythm199/Leetcode-problems/tree/master/1023-camelcase-matching) |
 | [1938-maximum-genetic-difference-query](https://github.com/rhythm199/Leetcode-problems/tree/master/1938-maximum-genetic-difference-query) |
@@ -1092,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/rhythm199/Leetcode-problems/tree/master/0554-brick-wall) |
 | [0575-distribute-candies](https://github.com/rhythm199/Leetcode-problems/tree/master/0575-distribute-candies) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/rhythm199/Leetcode-problems/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0676-implement-magic-dictionary](https://github.com/rhythm199/Leetcode-problems/tree/master/0676-implement-magic-dictionary) |
 | [0692-top-k-frequent-words](https://github.com/rhythm199/Leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/rhythm199/Leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/rhythm199/Leetcode-problems/tree/master/0706-design-hashmap) |
@@ -1711,6 +1715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/rhythm199/Leetcode-problems/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/rhythm199/Leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/rhythm199/Leetcode-problems/tree/master/0284-peeking-iterator) |
+| [0676-implement-magic-dictionary](https://github.com/rhythm199/Leetcode-problems/tree/master/0676-implement-magic-dictionary) |
 | [0705-design-hashset](https://github.com/rhythm199/Leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/rhythm199/Leetcode-problems/tree/master/0706-design-hashmap) |
 | [1206-design-skiplist](https://github.com/rhythm199/Leetcode-problems/tree/master/1206-design-skiplist) |
