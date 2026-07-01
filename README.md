@@ -501,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/rhythm199/Leetcode-problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/rhythm199/Leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/rhythm199/Leetcode-problems/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2861-maximum-number-of-alloys](https://github.com/rhythm199/Leetcode-problems/tree/master/2861-maximum-number-of-alloys) |
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/rhythm199/Leetcode-problems/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
@@ -823,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/rhythm199/Leetcode-problems/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/rhythm199/Leetcode-problems/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rhythm199/Leetcode-problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2861-maximum-number-of-alloys](https://github.com/rhythm199/Leetcode-problems/tree/master/2861-maximum-number-of-alloys) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/rhythm199/Leetcode-problems/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/rhythm199/Leetcode-problems/tree/master/2968-apply-operations-to-maximize-frequency-score) |
@@ -894,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2386-find-the-k-sum-of-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2454-next-greater-element-iv](https://github.com/rhythm199/Leetcode-problems/tree/master/2454-next-greater-element-iv) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2497-maximum-star-sum-of-a-graph) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/rhythm199/Leetcode-problems/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -969,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/rhythm199/Leetcode-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/rhythm199/Leetcode-problems/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2573-find-the-string-with-lcp](https://github.com/rhythm199/Leetcode-problems/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rhythm199/Leetcode-problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Trie
 |  |
@@ -1288,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2373-largest-local-values-in-a-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/rhythm199/Leetcode-problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2573-find-the-string-with-lcp](https://github.com/rhythm199/Leetcode-problems/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/rhythm199/Leetcode-problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/rhythm199/Leetcode-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3030-find-the-grid-of-region-average](https://github.com/rhythm199/Leetcode-problems/tree/master/3030-find-the-grid-of-region-average) |
@@ -1499,6 +1504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/rhythm199/Leetcode-problems/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/rhythm199/Leetcode-problems/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/rhythm199/Leetcode-problems/tree/master/2608-shortest-cycle-in-a-graph) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/rhythm199/Leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Tree
