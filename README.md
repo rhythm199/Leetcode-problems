@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/rhythm199/Leetcode-problems/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/rhythm199/Leetcode-problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
+| [2953-count-complete-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/2953-count-complete-substrings) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/rhythm199/Leetcode-problems/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rhythm199/Leetcode-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -1168,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/rhythm199/Leetcode-problems/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/rhythm199/Leetcode-problems/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
+| [2953-count-complete-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/2953-count-complete-substrings) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rhythm199/Leetcode-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/rhythm199/Leetcode-problems/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -1212,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-longest-nice-subarray](https://github.com/rhythm199/Leetcode-problems/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rhythm199/Leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/rhythm199/Leetcode-problems/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2953-count-complete-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/2953-count-complete-substrings) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/rhythm199/Leetcode-problems/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
