@@ -1,0 +1,14 @@
+/**
+ * @param {string} s
+ * @return {number}
+ */
+var numberOfSubstrings = function(s) {
+     let res = 0, p = [5e4, -1, -1, -1];
+
+    for (let i = 0; i < s.length; i++) {
+        p[s.charCodeAt(i) & 31] = i;
+        res += Math.min(...p) + 1;
+    }
+
+    return res;
+};
