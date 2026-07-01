@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rhythm199/Leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rhythm199/Leetcode-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/rhythm199/Leetcode-problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2063-vowels-of-all-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/2063-vowels-of-all-substrings) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rhythm199/Leetcode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/rhythm199/Leetcode-problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2129-capitalize-the-title](https://github.com/rhythm199/Leetcode-problems/tree/master/2129-capitalize-the-title) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/rhythm199/Leetcode-problems/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/rhythm199/Leetcode-problems/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rhythm199/Leetcode-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2063-vowels-of-all-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/2063-vowels-of-all-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rhythm199/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rhythm199/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2312-selling-pieces-of-wood](https://github.com/rhythm199/Leetcode-problems/tree/master/2312-selling-pieces-of-wood) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/rhythm199/Leetcode-problems/tree/master/1840-maximum-building-height) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/rhythm199/Leetcode-problems/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rhythm199/Leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2063-vowels-of-all-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/2063-vowels-of-all-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rhythm199/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/rhythm199/Leetcode-problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/rhythm199/Leetcode-problems/tree/master/2217-find-palindrome-with-fixed-length) |
@@ -1635,6 +1638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rhythm199/Leetcode-problems/tree/master/0062-unique-paths) |
+| [2063-vowels-of-all-substrings](https://github.com/rhythm199/Leetcode-problems/tree/master/2063-vowels-of-all-substrings) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/rhythm199/Leetcode-problems/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/rhythm199/Leetcode-problems/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 ## String Matching
